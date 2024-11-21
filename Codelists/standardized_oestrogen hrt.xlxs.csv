@@ -1,0 +1,89 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,prodcodeid,dmdid,termfromemis,productname,formulation,routeofadministration,drugsubstancename,substancestrength,bnfchapter
+,,,,1112641000033111,3053511000001101,Premarin 0.625mg/g vaginal cream (Pfizer Ltd),Premarin 0.625mg/g vaginal cream,Cream,Cutaneous/ Vaginal,Conjugated oestrogens,625.000microgram/1.000gram,
+,,,,3194641000033114,4339811000001101,Estradiol 50micrograms/24hours / Levonorgestrel 7micrograms/24hours transdermal patches,Estradiol 50micrograms/24hours / Levonorgestrel 7micrograms/24hours transdermal patches,Transdermal patch,Transdermal,Estradiol/ Levonorgestrel,50.000microgram/24.000hour + 7.000microgram/24.000hour,6040101
+,,,,1021841000033117,3876411000001107,Ovestin 1mg tablets (Organon Laboratories Ltd),Ovestin 1mg tablets,Tablet,Oral,Estriol,1.000mg,
+,,,,1132341000033110,546511000001102,Premarin 1.25mg tablets (Pfizer Ltd),Premarin 1.25mg tablets,Tablet,Oral,Conjugated oestrogens,1.250mg,6040101
+,,,,1132441000033116,34911000001102,Premarin 0.625mg tablets (Pfizer Ltd),Premarin 0.625mg tablets,Tablet,Oral,Conjugated oestrogens,625.000microgram,6040101
+,,,,1134041000033118,2846111000001106,Progynova 1mg tablets (Bayer Plc),Progynova 1mg tablets,Tablet,Oral,Estradiol valerate,1.000mg,6040101
+,,,,1134141000033119,2845411000001105,Progynova 2mg tablets (Bayer Plc),Progynova 2mg tablets,Tablet,Oral,Estradiol valerate,2.000mg,6040101
+,,,,1140041000033113,4548011000001100,Premarin 2.5mg tablets (Wyeth Pharmaceuticals),Premarin 2.5mg tablets,Tablet,Oral,Conjugated oestrogens,2.500mg,
+,,,,1239041000033116,3658611000001104,Sandrena 1mg gel sachets (Orion Pharma (UK) Ltd),Sandrena 1mg gel sachets,Gel,Transdermal,Estradiol hemihydrate,1.000mg,6040101
+,,,,1239141000033117,3657811000001104,Sandrena 500microgram gel sachets (Orion Pharma (UK) Ltd),Sandrena 500microgram gel sachets,Gel,Transdermal,Estradiol hemihydrate,500.000microgram,6040101
+,,,,13451141000033114,38344311000001108,Estradiol 1.53mg/dose transdermal spray,Estradiol 1.53mg/dose transdermal spray,Spray,Transdermal,Estradiol hemihydrate,1.530mg,
+,,,,13451441000033118,38268911000001102,Lenzetto 1.53mg/dose transdermal spray (Gedeon Richter (UK) Ltd),Lenzetto 1.53mg/dose transdermal spray,Spray,Transdermal,Estradiol hemihydrate,1.530mg,
+,,,,1563841000033112,2838411000001101,Zumenon 2mg tablets (Mylan),Zumenon 2mg tablets,Tablet,Oral,Estradiol,2.000mg,6040101
+,,,,1563941000033116,2842511000001103,Zumenon 1mg tablets (Mylan),Zumenon 1mg tablets,Tablet,Oral,Estradiol,1.000mg,6040101
+,,,,1594241000033112,428005004,Conjugated oestrogens 2.5mg tablets,Conjugated oestrogens 2.5mg tablets,Tablet,Oral,Conjugated oestrogens,2.500mg,
+,,,,1798141000033113,2911111000001100,Estraderm MX 75 patches (Norgine Pharmaceuticals Ltd),Estraderm MX 75 patches,Transdermal patch,Transdermal,Estradiol,75.000microgram/24.000hour,6040101
+,,,,1855641000033116,325560001,Estropipate 1.5mg tablets,Estropipate 1.5mg tablets,Tablet,Oral,Estropipate,1.500mg,
+,,,,2173841000033114,2838711000001107,Adgyn Estro 2mg tablets (Kyowa Kirin Ltd),Adgyn Estro 2mg tablets,Tablet,Oral,Estradiol,2.000mg,
+,,,,2217041000033117,2947811000001109,Dermestril - Septem 50 patches (Kyowa Kirin Ltd),Dermestril - Septem 50 patches,Transdermal patch,Transdermal,Estradiol,50.000microgram/24.000hour,
+,,,,2217141000033118,2911411000001105,Dermestril - Septem 75 patches (Kyowa Kirin Ltd),Dermestril - Septem 75 patches,Transdermal patch,Transdermal,Estradiol,75.000microgram/24.000hour,
+,,,,2289241000033116,3649411000001108,Aerodiol 150micrograms/dose nasal spray (Servier Laboratories Ltd),Aerodiol 150micrograms/dose nasal spray,Spray,Nasal,Estradiol hemihydrate,150.000microgram/1.000dose,
+,,,,2739341000033112,2949711000001109,Progynova TS 50micrograms/24hours transdermal patches (Bayer Plc),Progynova TS 50micrograms/24hours transdermal patches,Transdermal patch,Transdermal,Estradiol,50.000microgram/24.000hour,6040101
+,,,,2739441000033118,2939611000001104,Progynova TS 100micrograms/24hours transdermal patches (Bayer Plc),Progynova TS 100micrograms/24hours transdermal patches,Transdermal patch,Transdermal,Estradiol,100.000microgram/24.000hour,6040101
+,,,,287741000033116,2845811000001107,Climaval 1mg tablets (Novartis Pharmaceuticals UK Ltd),Climaval 1mg tablets,Tablet,Oral,Estradiol valerate,1.000mg,6040101
+,,,,287841000033114,2845111000001100,Climaval 2mg tablets (Novartis Pharmaceuticals UK Ltd),Climaval 2mg tablets,Tablet,Oral,Estradiol valerate,2.000mg,6040101
+,,,,2950941000033111,4501211000001106,FemTab 1mg tablets (Merck Serono Ltd),FemTab 1mg tablets,Tablet,Oral,Estradiol valerate,1.000mg,
+,,,,2951041000033118,4501411000001105,FemTab 2mg tablets (Merck Serono Ltd),FemTab 2mg tablets,Tablet,Oral,Estradiol valerate,2.000mg,
+,,,,3090041000033118,325480003,Ethinylestradiol 10microgram tablets,Ethinylestradiol 10microgram tablets,Tablet,Oral,Ethinylestradiol,10.000microgram,6040101
+,,,,3090141000033119,325481004,Ethinylestradiol 50microgram tablets,Ethinylestradiol 50microgram tablets,Tablet,Oral,Ethinylestradiol,50.000microgram,6040101
+,,,,3090241000033114,325482006,Ethinylestradiol 1mg tablets,Ethinylestradiol 1mg tablets,Tablet,Oral,Ethinylestradiol,1.000mg,6040101
+,,,,3090341000033116,11738011000001105,Ethinylestradiol 2microgram tablets,Ethinylestradiol 2microgram tablets,Tablet,Oral,Ethinylestradiol,2.000microgram,
+,,,,3097641000033113,325577001,Estradiol 0.06% gel (750microgram per actuation),Estradiol 0.06% gel (750microgram per actuation),Gel,Transdermal,Estradiol,600.000microgram/1.000gram,6040101
+,,,,3097741000033116,325542001,Estradiol 100mg implant,Estradiol 100mg implant,Implant,Subcutaneous,Estradiol,100.000mg,
+,,,,3097841000033114,325540009,Estradiol 25mg implant,Estradiol 25mg implant,Implant,Subcutaneous,Estradiol,25.000mg,
+,,,,3097941000033118,325541008,Estradiol 50mg implant,Estradiol 50mg implant,Implant,Subcutaneous,Estradiol,50.000mg,
+,,,,3098041000033115,325545004,Estradiol 1mg tablets,Estradiol 1mg tablets,Tablet,Oral,Estradiol,1.000mg,6040101
+,,,,3098141000033116,325546003,Estradiol 2mg tablets,Estradiol 2mg tablets,Tablet,Oral,Estradiol,2.000mg,6040101
+,,,,3098341000033118,36064811000001103,Estradiol 100micrograms/24hours transdermal patches,Estradiol 100micrograms/24hours transdermal patches,Transdermal patch,Transdermal,Estradiol,100.000microgram/24.000hour,6040101
+,,,,3098441000033112,36064911000001108,Estradiol 25micrograms/24hours transdermal patches,Estradiol 25micrograms/24hours transdermal patches,Transdermal patch,Transdermal,Estradiol,25.000microgram/24.000hour,6040101
+,,,,3098541000033113,36065111000001109,Estradiol 40micrograms/24hours transdermal patches,Estradiol 40micrograms/24hours transdermal patches,Transdermal patch,Transdermal,Estradiol,40.000microgram/24.000hour,6040101
+,,,,3098641000033114,39112011000001100,Estradiol 50micrograms/24hours transdermal patches,Estradiol 50micrograms/24hours transdermal patches,Transdermal patch,Transdermal,Estradiol,50.000microgram/24.000hour,6040101
+,,,,3098741000033117,36065411000001104,Estradiol 75micrograms/24hours transdermal patches,Estradiol 75micrograms/24hours transdermal patches,Transdermal patch,Transdermal,Estradiol,75.000microgram/24.000hour,6040101
+,,,,3098841000033110,36065511000001100,Estradiol 80micrograms/24hours transdermal patches,Estradiol 80micrograms/24hours transdermal patches,Transdermal patch,Transdermal,Estradiol,80.000microgram/24.000hour,6040101
+,,,,3099541000033118,3664111000001108,Estradiol 1mg gel sachets,Estradiol 1mg gel sachets,Gel,Transdermal,Estradiol hemihydrate,1.000mg,6040101
+,,,,3099641000033117,3664211000001102,Estradiol 500microgram gel sachets,Estradiol 500microgram gel sachets,Gel,Transdermal,Estradiol hemihydrate,500.000microgram,6040101
+,,,,3099741000033114,134589003,Estradiol 150micrograms/dose nasal spray,Estradiol 150micrograms/dose nasal spray,Spray,Nasal,Estradiol hemihydrate,150.000microgram/1.000dose,
+,,,,3099941000033112,325505008,Estradiol valerate 1mg tablets,Estradiol valerate 1mg tablets,Tablet,Oral,Estradiol valerate,1.000mg,6040101
+,,,,3100041000033111,325533008,Estradiol valerate 2mg tablets,Estradiol valerate 2mg tablets,Tablet,Oral,Estradiol valerate,2.000mg,6040101
+,,,,3100441000033119,325550005,Estriol 1mg tablets,Estriol 1mg tablets,Tablet,Oral,Estriol,1.000mg,
+,,,,3225741000033112,36065011000001108,Estradiol 37.5micrograms/24hours transdermal patches,Estradiol 37.5micrograms/24hours transdermal patches,Transdermal patch,Transdermal,Estradiol,37.500microgram/24.000hour,6040101
+,,,,3225841000033119,9044911000001109,Estradot 25micrograms/24hours patches (Novartis Pharmaceuticals UK Ltd),Estradot 25micrograms/24hours patches,Transdermal patch,Transdermal,Estradiol,25.000microgram/24.000hour,6040101
+,,,,3225941000033110,9045111000001105,Estradot 37.5micrograms/24hours patches (Novartis Pharmaceuticals UK Ltd),Estradot 37.5micrograms/24hours patches,Transdermal patch,Transdermal,Estradiol,37.500microgram/24.000hour,6040101
+,,,,3226041000033117,9045311000001107,Estradot 50micrograms/24hours patches (Novartis Pharmaceuticals UK Ltd),Estradot 50micrograms/24hours patches,Transdermal patch,Transdermal,Estradiol,50.000microgram/24.000hour,6040101
+,,,,3226141000033118,9045511000001101,Estradot 75micrograms/24hours patches (Novartis Pharmaceuticals UK Ltd),Estradot 75micrograms/24hours patches,Transdermal patch,Transdermal,Estradiol,75.000microgram/24.000hour,6040101
+,,,,3226241000033113,9045711000001106,Estradot 100micrograms/24hours patches (Novartis Pharmaceuticals UK Ltd),Estradot 100micrograms/24hours patches,Transdermal patch,Transdermal,Estradiol,100.000microgram/24.000hour,6040101
+,,,,374341000033111,325557008,Conjugated oestrogens 1.25mg tablets,Conjugated oestrogens 1.25mg tablets,Tablet,Oral,Conjugated oestrogens,1.250mg,6040101
+,,,,374441000033117,325556004,Conjugated oestrogens 625microgram tablets,Conjugated oestrogens 625microgram tablets,Tablet,Oral,Conjugated oestrogens,625.000microgram,6040101
+,,,,3908341000033113,10276611000001104,Bedol 2mg tablets (ReSource Medical UK Ltd),Bedol 2mg tablets,Tablet,Oral,Estradiol,2.000mg,6040101
+,,,,4118041000033114,409118006,Conjugated oestrogens 300microgram tablets,Conjugated oestrogens 300microgram tablets,Tablet,Oral,Conjugated oestrogens,300.000microgram,
+,,,,4118141000033113,11476811000001109,Premarin 0.3mg tablets (Pfizer Ltd),Premarin 0.3mg tablets,Tablet,Oral,Conjugated oestrogens,300.000microgram,
+,,,,432341000033111,2938211000001106,Dermestril 100 patches (Kyowa Kirin Ltd),Dermestril 100 patches,Transdermal patch,Transdermal,Estradiol,100.000microgram/24.000hour,
+,,,,432441000033117,2889911000001105,Dermestril 25 patches (Kyowa Kirin Ltd),Dermestril 25 patches,Transdermal patch,Transdermal,Estradiol,25.000microgram/24.000hour,
+,,,,432541000033116,2947611000001105,Dermestril 50 patches (Kyowa Kirin Ltd),Dermestril 50 patches,Transdermal patch,Transdermal,Estradiol,50.000microgram/24.000hour,
+,,,,508041000033110,2841811000001109,Elleste Solo 1mg tablets (Mylan),Elleste Solo 1mg tablets,Tablet,Oral,Estradiol,1.000mg,6040101
+,,,,508141000033114,2837211000001104,Elleste Solo 2mg tablets (Mylan),Elleste Solo 2mg tablets,Tablet,Oral,Estradiol,2.000mg,6040101
+,,,,509141000033115,2890211000001107,Elleste Solo MX 40 transdermal patches (Mylan),Elleste Solo MX 40 transdermal patches,Transdermal patch,Transdermal,Estradiol,40.000microgram/24.000hour,6040101
+,,,,509241000033110,2893411000001103,Elleste Solo MX 80 transdermal patches (Mylan),Elleste Solo MX 80 transdermal patches,Transdermal patch,Transdermal,Estradiol,80.000microgram/24.000hour,6040101
+,,,,545241000033118,2936611000001107,Estraderm TTS 100 patches (Novartis Pharmaceuticals UK Ltd),Estraderm TTS 100 patches,Transdermal patch,Transdermal,Estradiol,100.000microgram/24.000hour,6040101
+,,,,545341000033111,2889311000001109,Estraderm TTS 25 patches (Novartis Pharmaceuticals UK Ltd),Estraderm TTS 25 patches,Transdermal patch,Transdermal,Estradiol,25.000microgram/24.000hour,6040101
+,,,,545441000033117,2942911000001101,Estraderm TTS 50 patches (Novartis Pharmaceuticals UK Ltd),Estraderm TTS 50 patches,Transdermal patch,Transdermal,Estradiol,50.000microgram/24.000hour,6040101
+,,,,546541000033110,2937111000001101,Estraderm MX 100 patches (Norgine Pharmaceuticals Ltd),Estraderm MX 100 patches,Transdermal patch,Transdermal,Estradiol,100.000microgram/24.000hour,6040101
+,,,,546641000033111,2889611000001104,Estraderm MX 25 patches (Norgine Pharmaceuticals Ltd),Estraderm MX 25 patches,Transdermal patch,Transdermal,Estradiol,25.000microgram/24.000hour,6040101
+,,,,546741000033119,2945011000001105,Estraderm MX 50 patches (Norgine Pharmaceuticals Ltd),Estraderm MX 50 patches,Transdermal patch,Transdermal,Estradiol,50.000microgram/24.000hour,6040101
+,,,,558541000033111,2942311000001102,Evorel 50 patches (Theramex HQ UK Ltd),Evorel 50 patches,Transdermal patch,Transdermal,Estradiol,50.000microgram/24.000hour,6040101
+,,,,558641000033112,2936011000001100,Evorel 100 patches (Theramex HQ UK Ltd),Evorel 100 patches,Transdermal patch,Transdermal,Estradiol,100.000microgram/24.000hour,6040101
+,,,,558741000033115,2889111000001107,Evorel 25 patches (Theramex HQ UK Ltd),Evorel 25 patches,Transdermal patch,Transdermal,Estradiol,25.000microgram/24.000hour,6040101
+,,,,558841000033113,2903111000001101,Evorel 75 patches (Theramex HQ UK Ltd),Evorel 75 patches,Transdermal patch,Transdermal,Estradiol,75.000microgram/24.000hour,6040101
+,,,,575341000033110,2893711000001109,Fematrix 80 patches (Abbott Healthcare Products Ltd),Fematrix 80 patches,Transdermal patch,Transdermal,Estradiol,80.000microgram/24.000hour,
+,,,,575441000033116,2948411000001106,FemSeven 50 patches (Theramex HQ UK Ltd),FemSeven 50 patches,Transdermal patch,Transdermal,Estradiol,50.000microgram/24.000hour,6040101
+,,,,575541000033115,2890411000001106,Fematrix 40 patches (Abbott Healthcare Products Ltd),Fematrix 40 patches,Transdermal patch,Transdermal,Estradiol,40.000microgram/24.000hour,
+,,,,575641000033119,2938411000001105,FemSeven 100 patches (Theramex HQ UK Ltd),FemSeven 100 patches,Transdermal patch,Transdermal,Estradiol,100.000microgram/24.000hour,6040101
+,,,,575741000033111,2902911000001105,FemSeven 75 patches (Theramex HQ UK Ltd),FemSeven 75 patches,Transdermal patch,Transdermal,Estradiol,75.000microgram/24.000hour,6040101
+,,,,662841000033112,86011000001100,Harmogen 1.5mg tablets (Pfizer Ltd),Harmogen 1.5mg tablets,Tablet,Oral,Estropipate,1.500mg,
+,,,,709541000033113,293111000001101,Hormonin tablets (Advanz Pharma),Hormonin tablets,Tablet,Oral,Estradiol/ Estriol/ Estrone,600.000microgram + 270.000microgram + 1.400mg,6040101
+,,,,905341000033110,2895211000001103,Menorest 37.5 patches (Novartis Pharmaceuticals UK Ltd),Menorest 37.5 patches,Transdermal patch,Transdermal,Estradiol,37.500microgram/24.000hour,
+,,,,905441000033116,2943611000001102,Menorest 50 patches (Novartis Pharmaceuticals UK Ltd),Menorest 50 patches,Transdermal patch,Transdermal,Estradiol,50.000microgram/24.000hour,
+,,,,905541000033115,2910911000001109,Menorest 75 patches (Novartis Pharmaceuticals UK Ltd),Menorest 75 patches,Transdermal patch,Transdermal,Estradiol,75.000microgram/24.000hour,
+,,,,999041000033113,3414911000001105,Oestrogel Pump-Pack 0.06% gel (Besins Healthcare (UK) Ltd),Oestrogel Pump-Pack 0.06% gel,Gel,Transdermal,Estradiol,600.000microgram/1.000gram,6040101

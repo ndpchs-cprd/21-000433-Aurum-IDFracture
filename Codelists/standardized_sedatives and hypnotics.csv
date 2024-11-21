@@ -1,0 +1,90 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,prodcodeid,dmdid,termfromemis,productname,formulation,routeofadministration,drugsubstancename,substancestrength
+,,,,11275941000033119,12141711000001106,Oxazepam 10mg/5ml oral suspension,Oxazepam 10mg/5ml oral suspension,Oral suspension,Oral,Oxazepam,2.000mg/1.000ml
+,,,,13159441000033115,37600511000001104,Lorazepam 1mg orodispersible tablets,Lorazepam 1mg orodispersible tablets,Orodispersible tablet,Oral,Lorazepam,1.000mg
+,,,,13159541000033119,37600611000001100,Lorazepam 2.5mg orodispersible tablets,Lorazepam 2.5mg orodispersible tablets,Orodispersible tablet,Oral,Lorazepam,2.500mg
+,,,,13766141000033115,8660311000001101,Lormetazepam 1mg/5ml oral suspension,Lormetazepam 1mg/5ml oral suspension,Oral suspension,Oral,Lormetazepam,200.000microgram/1.000ml
+,,,,1428141000033113,9106811000001108,Tensium 10mg tablets (DDSA Pharmaceuticals Ltd),Tensium 10mg tablets,Tablet,Oral,Diazepam,10.000mg
+,,,,3033041000033117,36097511000001106,Diazepam 10mg/2ml emulsion for injection ampoules,Diazepam 10mg/2ml emulsion for injection ampoules,Emulsion for injection,Intravenous,Diazepam,5.000mg/1.000ml
+,,,,3033141000033118,36097611000001105,Diazepam 10mg/2ml solution for injection ampoules,Diazepam 10mg/2ml solution for injection ampoules,Solution for injection,Intramuscular/ Intravenous,Diazepam,5.000mg/1.000ml
+,,,,3246441000033111,17996511000001100,Klonopin 0.5mg oral lyophilisates (Imported (United States)),Klonopin 0.5mg oral lyophilisates,Oral lyophilisate,,Clonazepam,500.000microgram
+,,,,5901141000033113,11944311000001107,Clonazepam 12.5mg/5ml oral suspension,Clonazepam 12.5mg/5ml oral suspension,Oral suspension,Oral,Clonazepam,2.500mg/1.000ml
+,,,,1025741000033113,321314006,Oxazepam 10mg tablets,Oxazepam 10mg tablets,Tablet,Oral,Oxazepam,10.000mg
+,,,,1025841000033115,321315007,Oxazepam 15mg tablets,Oxazepam 15mg tablets,Tablet,Oral,Oxazepam,15.000mg
+,,,,1177241000033117,233611000001104,Rivotril 500microgram tablets (Roche Products Ltd),Rivotril 500microgram tablets,Tablet,Oral,Clonazepam,500.000microgram
+,,,,1177341000033110,291011000001103,Rivotril 2mg tablets (Roche Products Ltd),Rivotril 2mg tablets,Tablet,Oral,Clonazepam,2.000mg
+,,,,1184141000033114,4660211000001108,Rohypnol 1mg tablets (Roche Products Ltd),Rohypnol 1mg tablets,Tablet,Oral,Flunitrazepam,1.000mg
+,,,,12503341000033119,34697811000001107,Lorazepam 1mg/ml oral solution sugar free,Lorazepam 1mg/ml oral solution sugar free,Oral solution,Oral,Lorazepam,1.000mg/1.000ml
+,,,,13058141000033113,377147002,Lorazepam 500microgram tablets,Lorazepam 500microgram tablets,Tablet,Oral,Lorazepam,500.000microgram
+,,,,1363541000033112,3166211000001106,Somnite 2.5mg/5ml oral suspension (Norgine Pharmaceuticals Ltd),Somnite 2.5mg/5ml oral suspension,Oral suspension,Oral,Nitrazepam,500.000microgram/1.000ml
+,,,,1386141000033114,3206111000001102,Stilnoct 5mg tablets (Sanofi),Stilnoct 5mg tablets,Tablet,Oral,Zolpidem tartrate,5.000mg
+,,,,1387141000033111,3199611000001102,Stilnoct 10mg tablets (Sanofi),Stilnoct 10mg tablets,Tablet,Oral,Zolpidem tartrate,10.000mg
+,,,,1428241000033118,9107211000001109,Tensium 2mg tablets (DDSA Pharmaceuticals Ltd),Tensium 2mg tablets,Tablet,Oral,Diazepam,2.000mg
+,,,,1428441000033117,321152004,Temazepam 10mg tablets,Temazepam 10mg tablets,Tablet,Oral,Temazepam,10.000mg
+,,,,1428541000033116,321153009,Temazepam 20mg tablets,Temazepam 20mg tablets,Tablet,Oral,Temazepam,20.000mg
+,,,,1557941000033116,178011000001104,Zimovane LS 3.75mg tablets (Sanofi),Zimovane LS 3.75mg tablets,Tablet,Oral,Zopiclone,3.750mg
+,,,,1558441000033110,810511000001108,Zimovane 7.5mg tablets (Sanofi),Zimovane 7.5mg tablets,Tablet,Oral,Zopiclone,7.500mg
+,,,,1562141000033113,321183000,Zolpidem 5mg tablets,Zolpidem 5mg tablets,Tablet,Oral,Zolpidem tartrate,5.000mg
+,,,,1562341000033111,321177003,Zopiclone 3.75mg tablets,Zopiclone 3.75mg tablets,Tablet,Oral,Zopiclone,3.750mg
+,,,,1562441000033117,321184006,Zolpidem 10mg tablets,Zolpidem 10mg tablets,Tablet,Oral,Zolpidem tartrate,10.000mg
+,,,,1563241000033113,321175006,Zopiclone 7.5mg tablets,Zopiclone 7.5mg tablets,Tablet,Oral,Zopiclone,7.500mg
+,,,,1699841000033119,35915311000001101,Temazepam 10mg/5ml oral solution sugar free,Temazepam 10mg/5ml oral solution sugar free,Oral solution,Oral,Temazepam,2.000mg/1.000ml
+,,,,1713541000033112,224011000001106,Zileze 3.75 tablets (Opus Pharmaceuticals Ltd),Zileze 3.75 tablets,Tablet,Oral,Zopiclone,3.750mg
+,,,,1713641000033113,562111000001100,Zileze 7.5 tablets (Opus Pharmaceuticals Ltd),Zileze 7.5 tablets,Tablet,Oral,Zopiclone,7.500mg
+,,,,1728141000033116,321203006,Diazepam 5mg/5ml oral solution,Diazepam 5mg/5ml oral solution,Oral solution,Oral,Diazepam,1.000mg/1.000ml
+,,,,2601041000033112,7662511000001100,Clonazepam 2.5mg/ml drops sugar free,Clonazepam 2.5mg/ml drops sugar free,Oral drops,Oral,Clonazepam,2.500mg/1.000ml
+,,,,2601141000033111,7655011000001106,Rivotril 2.5mg/1ml drops (Imported (Switzerland)),Rivotril 2.5mg/1ml drops,Oral drops,,Clonazepam,2.500mg/1.000ml
+,,,,2640041000033113,11944711000001106,Clonazepam 125micrograms/5ml oral suspension,Clonazepam 125micrograms/5ml oral suspension,Oral suspension,Oral,Clonazepam,25.000microgram/1.000ml
+,,,,2667941000033119,8397611000001100,Clonazepam 625micrograms/5ml oral suspension,Clonazepam 625micrograms/5ml oral suspension,Oral suspension,Oral,Clonazepam,125.000microgram/1.000ml
+,,,,2719441000033110,8397111000001108,Clonazepam 500micrograms/5ml oral solution,Clonazepam 500micrograms/5ml oral solution,Oral solution,Oral,Clonazepam,100.000microgram/1.000ml
+,,,,2722341000033116,8397211000001102,Clonazepam 500micrograms/5ml oral suspension,Clonazepam 500micrograms/5ml oral suspension,Oral suspension,Oral,Clonazepam,100.000microgram/1.000ml
+,,,,2752741000033119,8395911000001101,Clonazepam 2mg/5ml oral solution,Clonazepam 2mg/5ml oral solution,Oral solution,Oral,Clonazepam,400.000microgram/1.000ml
+,,,,2762341000033113,321199006,Diazepam 2mg/5ml oral solution,Diazepam 2mg/5ml oral solution,Oral solution,Oral,Diazepam,400.000microgram/1.000ml
+,,,,2762441000033119,13893211000001109,Diazepam 10mg/5ml oral suspension,Diazepam 10mg/5ml oral suspension,Oral suspension,Oral,Diazepam,2.000mg/1.000ml
+,,,,286741000033118,322897008,Clonazepam 500microgram tablets,Clonazepam 500microgram tablets,Tablet,Oral,Clonazepam,500.000microgram
+,,,,286841000033111,322898003,Clonazepam 2mg tablets,Clonazepam 2mg tablets,Tablet,Oral,Clonazepam,2.000mg
+,,,,3135541000033116,8397411000001103,Clonazepam 5mg/5ml oral suspension,Clonazepam 5mg/5ml oral suspension,Oral suspension,Oral,Clonazepam,1.000mg/1.000ml
+,,,,3308041000033119,8659811000001106,Lorazepam 500micrograms/5ml oral suspension,Lorazepam 500micrograms/5ml oral suspension,Oral suspension,Oral,Lorazepam,100.000microgram/1.000ml
+,,,,3345241000033111,13893311000001101,Diazepam 2.5mg/5ml oral suspension,Diazepam 2.5mg/5ml oral suspension,Oral suspension,Oral,Diazepam,500.000microgram/1.000ml
+,,,,3923841000033119,8624511000001105,Lorazepam 1mg/5ml oral suspension,Lorazepam 1mg/5ml oral suspension,Oral suspension,Oral,Lorazepam,200.000microgram/1.000ml
+,,,,396341000033111,4657511000001100,Dalmane 15mg capsules (Mylan),Dalmane 15mg capsules,Capsule,Oral,Flurazepam hydrochloride,15.000mg
+,,,,396441000033117,4657811000001102,Dalmane 30mg capsules (Mylan),Dalmane 30mg capsules,Capsule,Oral,Flurazepam hydrochloride,30.000mg
+,,,,3979041000033112,426016003,Diazepam 25mg/5ml oral solution,Diazepam 25mg/5ml oral solution,Oral solution,Oral,Diazepam,5.000mg/1.000ml
+,,,,3993641000033114,19677811000001102,Diazepam 2mg/5ml oral suspension,Diazepam 2mg/5ml oral suspension,Oral suspension,Oral,Diazepam,400.000microgram/1.000ml
+,,,,457941000033112,26811000001102,Diazepam 10mg RecTubes (Wockhardt UK Ltd),Diazepam 10mg RecTubes, Enema,Rectal,Diazepam,4.000mg/1.000ml
+,,,,458041000033110,283311000001103,Diazepam 2.5mg RecTubes (Wockhardt UK Ltd),Diazepam 2.5mg RecTubes, Enema,Rectal,Diazepam,2.000mg/1.000ml
+,,,,458241000033119,603811000001108,Diazepam 5mg RecTubes (Wockhardt UK Ltd),Diazepam 5mg RecTubes, Enema,Rectal,Diazepam,2.000mg/1.000ml
+,,,,458341000033112,323069006,Diazepam 2.5mg/1.25ml rectal solution tube,Diazepam 2.5mg/1.25ml rectal solution tube, Enema,Rectal,Diazepam,2.000mg/1.000ml
+,,,,458541000033117,323074003,Diazepam 10mg/2.5ml rectal solution tube,Diazepam 10mg/2.5ml rectal solution tube, Enema,Rectal,Diazepam,4.000mg/1.000ml
+,,,,458641000033116,39709411000001106,Diazepam 5mg/2.5ml rectal solution tube,Diazepam 5mg/2.5ml rectal solution tube, Enema,Rectal,Diazepam,2.000mg/1.000ml
+,,,,460041000033115,321238008,Diazepam 10mg suppositories,Diazepam 10mg suppositories,Suppository,Rectal,Diazepam,10.000mg
+,,,,4663341000033118,8659211000001105,Lorazepam 250micrograms/5ml oral suspension,Lorazepam 250micrograms/5ml oral suspension,Oral suspension,Oral,Lorazepam,50.000microgram/1.000ml
+,,,,466741000033115,321198003,Diazepam 10mg tablets,Diazepam 10mg tablets,Tablet,Oral,Diazepam,10.000mg
+,,,,466841000033113,321196004,Diazepam 2mg tablets,Diazepam 2mg tablets,Tablet,Oral,Diazepam,2.000mg
+,,,,466941000033117,321197008,Diazepam 5mg tablets,Diazepam 5mg tablets,Tablet,Oral,Diazepam,5.000mg
+,,,,4957241000033112,8799011000001104,Zopiclone 3.75mg/5ml oral suspension,Zopiclone 3.75mg/5ml oral suspension,Oral suspension,Oral,Zopiclone,750.000microgram/1.000ml
+,,,,5414941000033113,321141005,Nitrazepam 5mg/5ml oral suspension,Nitrazepam 5mg/5ml oral suspension,Oral suspension,Oral,Nitrazepam,1.000mg/1.000ml
+,,,,5748641000033110,38894311000001101,Diazepam 2mg/5ml oral solution sugar free,Diazepam 2mg/5ml oral solution sugar free,Oral solution,Oral,Diazepam,400.000microgram/1.000ml
+,,,,578341000033118,321117007,Flurazepam 15mg capsules,Flurazepam 15mg capsules,Capsule,Oral,Flurazepam hydrochloride,15.000mg
+,,,,578441000033112,321118002,Flurazepam 30mg capsules,Flurazepam 30mg capsules,Capsule,Oral,Flurazepam hydrochloride,30.000mg
+,,,,5892341000033111,8659611000001107,Lorazepam 500micrograms/5ml oral solution,Lorazepam 500micrograms/5ml oral solution,Oral solution,Oral,Lorazepam,100.000microgram/1.000ml
+,,,,5892441000033117,8624311000001104,Lorazepam 1mg/5ml oral solution,Lorazepam 1mg/5ml oral solution,Oral solution,Oral,Lorazepam,200.000microgram/1.000ml
+,,,,5901041000033114,11944211000001104,Clonazepam 12.5mg/5ml oral solution,Clonazepam 12.5mg/5ml oral solution,Oral solution,Oral,Clonazepam,2.500mg/1.000ml
+,,,,5901241000033118,8395711000001103,Clonazepam 250micrograms/5ml oral solution,Clonazepam 250micrograms/5ml oral solution,Oral solution,Oral,Clonazepam,50.000microgram/1.000ml
+,,,,5901341000033111,8395811000001106,Clonazepam 250micrograms/5ml oral suspension,Clonazepam 250micrograms/5ml oral suspension,Oral suspension,Oral,Clonazepam,50.000microgram/1.000ml
+,,,,595341000033118,321112001,Flunitrazepam 1mg tablets,Flunitrazepam 1mg tablets,Tablet,Oral,Flunitrazepam,1.000mg
+,,,,5978741000033112,8798911000001108,Zopiclone 7.5mg/5ml oral suspension,Zopiclone 7.5mg/5ml oral suspension,Oral suspension,Oral,Zopiclone,1.500mg/1.000ml
+,,,,5991341000033113,8396011000001109,Clonazepam 2mg/5ml oral suspension,Clonazepam 2mg/5ml oral suspension,Oral suspension,Oral,Clonazepam,400.000microgram/1.000ml
+,,,,5991641000033117,8792711000001108,Diazepam 10mg/5ml oral solution,Diazepam 10mg/5ml oral solution,Oral solution,Oral,Diazepam,2.000mg/1.000ml
+,,,,5991741000033114,8792911000001105,Diazepam 2.5mg/5ml oral solution,Diazepam 2.5mg/5ml oral solution,Oral solution,Oral,Diazepam,500.000microgram/1.000ml
+,,,,6456641000033117,19609611000001101,Zopiclone 3.75mg/5ml oral solution,Zopiclone 3.75mg/5ml oral solution,Oral solution,Oral,Zopiclone,750.000microgram/1.000ml
+,,,,6529041000033112,20065611000001108,Clonazepam 2mg/5ml oral solution sugar free,Clonazepam 2mg/5ml oral solution sugar free,Oral solution,Oral,Clonazepam,400.000microgram/1.000ml
+,,,,6529741000033110,20128211000001100,Clonazepam 500micrograms/5ml oral solution sugar free,Clonazepam 500micrograms/5ml oral solution sugar free,Oral solution,Oral,Clonazepam,100.000microgram/1.000ml
+,,,,851141000033111,321294008,Lorazepam 1mg tablets,Lorazepam 1mg tablets,Tablet,Oral,Lorazepam,1.000mg
+,,,,851241000033116,321295009,Lorazepam 2.5mg tablets,Lorazepam 2.5mg tablets,Tablet,Oral,Lorazepam,2.500mg
+,,,,851341000033114,321123002,Lormetazepam 1mg tablets,Lormetazepam 1mg tablets,Tablet,Oral,Lormetazepam,1.000mg
+,,,,851441000033115,321122007,Lormetazepam 500microgram tablets,Lormetazepam 500microgram tablets,Tablet,Oral,Lormetazepam,500.000microgram
+,,,,8870741000033111,23466511000001106,Clonazepam 2.5mg/ml drops,Clonazepam 2.5mg/ml drops,Oral drops,Oral,Clonazepam,2.500mg/1.000ml
+,,,,9177941000033119,24510911000001105,Zopiclone 7.5mg/5ml oral solution,Zopiclone 7.5mg/5ml oral solution,Oral solution,Oral,Zopiclone,1.500mg/1.000ml
+,,,,939441000033114,514911000001107,Mogadon 5mg tablets (Mylan),Mogadon 5mg tablets,Tablet,Oral,Nitrazepam,5.000mg
+,,,,974341000033116,321129003,Nitrazepam 2.5mg/5ml oral suspension,Nitrazepam 2.5mg/5ml oral suspension,Oral suspension,Oral,Nitrazepam,500.000microgram/1.000ml
+,,,,975341000033115,321127001,Nitrazepam 5mg tablets,Nitrazepam 5mg tablets,Tablet,Oral,Nitrazepam,5.000mg

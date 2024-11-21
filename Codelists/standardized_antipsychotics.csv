@@ -1,0 +1,357 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,prodcodeid,dmdid,termfromemis,productname,formulation,routeofadministration,drugsubstancename,substancestrength
+,,,,12990441000033112,36868711000001104,Arpoya 10mg tablets (Torrent Pharma (UK) Ltd),Arpoya 10mg tablets,Tablet,Oral,Aripiprazole,10.000mg
+,,,,12990541000033113,36869111000001107,Arpoya 15mg tablets (Torrent Pharma (UK) Ltd),Arpoya 15mg tablets,Tablet,Oral,Aripiprazole,15.000mg
+,,,,12990641000033114,36869311000001109,Arpoya 30mg tablets (Torrent Pharma (UK) Ltd),Arpoya 30mg tablets,Tablet,Oral,Aripiprazole,30.000mg
+,,,,13155441000033117,35753411000001105,Halkid 200micrograms/ml oral solution (Thame Laboratories Ltd),Halkid 200micrograms/ml oral solution,Oral solution,Oral,Haloperidol,200.000microgram/1.000ml
+,,,,13745541000033113,39125711000001100,Haloperidol 5mg/5ml oral solution sugar free (Special Order),Haloperidol 5mg/5ml oral solution sugar free,Oral solution,,Haloperidol,1.000mg/1.000ml
+,,,,2955641000033114,567111000001103,Terrazine 5mg tablets (Dr Reddy's Laboratories (UK) Ltd),Terrazine 5mg tablets,Tablet,Oral,Trifluoperazine hydrochloride,5.000mg
+,,,,3030941000033114,5694111000001100,Zyprexa 10mg powder for solution for injection vials (Parapharm Development Ltd),Zyprexa 10mg powder for solution for injection vials,Powder for solution for injection,Intramuscular,Olanzapine,10.000mg
+,,,,5575941000033113,17038711000001107,Olanzapine embonate 405mg powder and solvent for suspension for injection vials,Olanzapine embonate 405mg powder and solvent for suspension for injection vials,Powder and solvent for suspension for injection,Intramuscular,Olanzapine embonate monohydrate,405.000mg
+,,,,5997341000033118,14015811000001109,Olanzapine 2.5mg/5ml oral solution,Olanzapine 2.5mg/5ml oral solution,Oral solution,Oral,Olanzapine,500.000microgram/1.000ml
+,,,,6457241000033117,19588111000001107,Zalasta 7.5mg tablets (Consilient Health Ltd),Zalasta 7.5mg tablets,Tablet,Oral,Olanzapine,7.500mg
+,,,,6465441000033115,19610111000001101,Zalasta 15mg orodispersible tablets (Consilient Health Ltd),Zalasta 15mg orodispersible tablets,Orodispersible tablet,Oral,Olanzapine,15.000mg
+,,,,6465541000033119,19610411000001106,Zalasta 20mg orodispersible tablets (Consilient Health Ltd),Zalasta 20mg orodispersible tablets,Orodispersible tablet,Oral,Olanzapine,20.000mg
+,,,,6514941000033116,19890611000001104,Arkolamyl 5mg orodispersible tablets (Mylan),Arkolamyl 5mg orodispersible tablets,Orodispersible tablet,Oral,Olanzapine,5.000mg
+,,,,6515041000033116,19890011000001106,Arkolamyl 10mg orodispersible tablets (Mylan),Arkolamyl 10mg orodispersible tablets,Orodispersible tablet,Oral,Olanzapine,10.000mg
+,,,,6515141000033117,19890311000001109,Arkolamyl 15mg orodispersible tablets (Mylan),Arkolamyl 15mg orodispersible tablets,Orodispersible tablet,Oral,Olanzapine,15.000mg
+,,,,6515241000033112,19890911000001105,Arkolamyl 20mg orodispersible tablets (Mylan),Arkolamyl 20mg orodispersible tablets,Orodispersible tablet,Oral,Olanzapine,20.000mg
+,,,,8886041000033118,20176811000001101,Chlorpromazine 10mg capsules,Chlorpromazine 10mg capsules,Capsule,Oral,Chlorpromazine hydrochloride,10.000mg
+,,,,1003641000033113,321614001,Olanzapine 10mg tablets,Olanzapine 10mg tablets,Tablet,Oral,Olanzapine,10.000mg
+,,,,1003741000033116,321612002,Olanzapine 5mg tablets,Olanzapine 5mg tablets,Tablet,Oral,Olanzapine,5.000mg
+,,,,1003841000033114,321613007,Olanzapine 7.5mg tablets,Olanzapine 7.5mg tablets,Tablet,Oral,Olanzapine,7.500mg
+,,,,10041141000033118,28400211000001109,Biquelle XL 50mg tablets (Aspire Pharma Ltd),Biquelle XL 50mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,50.000mg
+,,,,10041241000033113,28400411000001108,Biquelle XL 150mg tablets (Aspire Pharma Ltd),Biquelle XL 150mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,150.000mg
+,,,,10041341000033115,28401011000001108,Biquelle XL 200mg tablets (Aspire Pharma Ltd),Biquelle XL 200mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,200.000mg
+,,,,10041441000033114,28400611000001106,Biquelle XL 300mg tablets (Aspire Pharma Ltd),Biquelle XL 300mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,300.000mg
+,,,,10041541000033110,28400811000001105,Biquelle XL 400mg tablets (Aspire Pharma Ltd),Biquelle XL 400mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,400.000mg
+,,,,10041741000033119,28411511000001102,Zaluron XL 50mg tablets (Fontus Health Ltd),Zaluron XL 50mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,50.000mg
+,,,,10041841000033112,28411711000001107,Zaluron XL 150mg tablets (Fontus Health Ltd),Zaluron XL 150mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,150.000mg
+,,,,10041941000033116,28411911000001109,Zaluron XL 200mg tablets (Fontus Health Ltd),Zaluron XL 200mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,200.000mg
+,,,,10042041000033110,28412111000001101,Zaluron XL 300mg tablets (Fontus Health Ltd),Zaluron XL 300mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,300.000mg
+,,,,10042141000033114,28412311000001104,Zaluron XL 400mg tablets (Fontus Health Ltd),Zaluron XL 400mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,400.000mg
+,,,,10254741000033110,28994711000001109,Mintreleq XL 50mg tablets (Aristo Pharma Ltd),Mintreleq XL 50mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,50.000mg
+,,,,10254841000033117,28994911000001106,Mintreleq XL 150mg tablets (Aristo Pharma Ltd),Mintreleq XL 150mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,150.000mg
+,,,,10254941000033113,28995111000001107,Mintreleq XL 200mg tablets (Aristo Pharma Ltd),Mintreleq XL 200mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,200.000mg
+,,,,10255041000033113,28995611000001104,Mintreleq XL 300mg tablets (Aristo Pharma Ltd),Mintreleq XL 300mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,300.000mg
+,,,,10255141000033112,28995811000001100,Mintreleq XL 400mg tablets (Aristo Pharma Ltd),Mintreleq XL 400mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,400.000mg
+,,,,10493341000033115,8528311000001100,Haloperidol 500micrograms/5ml oral solution,Haloperidol 500micrograms/5ml oral solution,Oral solution,Oral,Haloperidol,100.000microgram/1.000ml
+,,,,10493441000033114,8528411000001107,Haloperidol 500micrograms/5ml oral suspension,Haloperidol 500micrograms/5ml oral suspension,Oral suspension,Oral,Haloperidol,100.000microgram/1.000ml
+,,,,10615141000033115,27842211000001101,Atrolak XL 50mg tablets (Accord Healthcare Ltd),Atrolak XL 50mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,50.000mg
+,,,,10615241000033110,27842411000001102,Atrolak XL 200mg tablets (Accord Healthcare Ltd),Atrolak XL 200mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,200.000mg
+,,,,10615341000033117,27842611000001104,Atrolak XL 300mg tablets (Accord Healthcare Ltd),Atrolak XL 300mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,300.000mg
+,,,,10615441000033111,27842811000001100,Atrolak XL 400mg tablets (Accord Healthcare Ltd),Atrolak XL 400mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,400.000mg
+,,,,1086741000033114,3822011000001103,Piportil Depot 50mg/1ml solution for injection ampoules (Sanofi),Piportil Depot 50mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Pipotiazine palmitate,50.000mg/1.000ml
+,,,,1087341000033110,8823211000001101,Piportil Depot 100mg/2ml solution for injection ampoules (Sanofi),Piportil Depot 100mg/2ml solution for injection ampoules,Solution for injection,Intramuscular,Pipotiazine palmitate,50.000mg/1.000ml
+,,,,10946341000033116,31087211000001107,Aripiprazole 400mg powder and solvent for suspension for injection pre-filled syringes,Aripiprazole 400mg powder and solvent for suspension for injection pre-filled syringes,Powder and solvent for suspension for injection,Intramuscular,Aripiprazole,400.000mg
+,,,,10946441000033110,31078011000001108,Abilify Maintena 400mg powder and solvent for prolonged-release suspension for injection pre-filled syringes (Otsuka Pharmaceuticals (U.K.) Ltd),Abilify Maintena 400mg powder and solvent for prolonged-release suspension for injection pre-filled syringes,Powder and solvent for suspension for injection,Intramuscular,Aripiprazole,400.000mg
+,,,,1150041000033111,321625005,Quetiapine 100mg tablets,Quetiapine 100mg tablets,Tablet,Oral,Quetiapine fumarate,100.000mg
+,,,,1150141000033110,321626006,Quetiapine 200mg tablets,Quetiapine 200mg tablets,Tablet,Oral,Quetiapine fumarate,200.000mg
+,,,,1150241000033115,321624009,Quetiapine 25mg tablets,Quetiapine 25mg tablets,Tablet,Oral,Quetiapine fumarate,25.000mg
+,,,,11578941000033118,32503211000001102,Psyquet XL 50mg tablets (Sandoz Ltd),Psyquet XL 50mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,50.000mg
+,,,,11579241000033119,32503411000001103,Psyquet XL 150mg tablets (Sandoz Ltd),Psyquet XL 150mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,150.000mg
+,,,,11579341000033112,32503611000001100,Psyquet XL 200mg tablets (Sandoz Ltd),Psyquet XL 200mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,200.000mg
+,,,,11579441000033118,32503811000001101,Psyquet XL 300mg tablets (Sandoz Ltd),Psyquet XL 300mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,300.000mg
+,,,,11579541000033117,32504011000001109,Psyquet XL 400mg tablets (Sandoz Ltd),Psyquet XL 400mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,400.000mg
+,,,,11730041000033115,22635511000001100,Quetiapine 200mg/5ml oral suspension,Quetiapine 200mg/5ml oral suspension,Oral suspension,Oral,Quetiapine fumarate,40.000mg/1.000ml
+,,,,1173841000033113,343311000001101,Risperdal 1mg/ml oral solution (Janssen-Cilag Ltd),Risperdal 1mg/ml oral solution,Oral solution,Oral,Risperidone,1.000mg/1.000ml
+,,,,1173941000033117,321597002,Risperidone 1mg/ml oral solution sugar free,Risperidone 1mg/ml oral solution sugar free,Oral solution,Oral,Risperidone,1.000mg/1.000ml
+,,,,11753641000033118,33391011000001100,Quetiapine 20mg/ml oral suspension sugar free,Quetiapine 20mg/ml oral suspension sugar free,Oral suspension,Oral,Quetiapine fumarate,20.000mg/1.000ml
+,,,,1176241000033115,589911000001105,Risperdal 1mg tablets (Janssen-Cilag Ltd),Risperdal 1mg tablets,Tablet,Oral,Risperidone,1.000mg
+,,,,1176341000033113,858911000001109,Risperdal 2mg tablets (Janssen-Cilag Ltd),Risperdal 2mg tablets,Tablet,Oral,Risperidone,2.000mg
+,,,,1176441000033119,518911000001100,Risperdal 3mg tablets (Janssen-Cilag Ltd),Risperdal 3mg tablets,Tablet,Oral,Risperidone,3.000mg
+,,,,1176541000033118,429611000001104,Risperdal 4mg tablets (Janssen-Cilag Ltd),Risperdal 4mg tablets,Tablet,Oral,Risperidone,4.000mg
+,,,,1176641000033117,321589009,Risperidone 1mg tablets,Risperidone 1mg tablets,Tablet,Oral,Risperidone,1.000mg
+,,,,1176741000033114,321590000,Risperidone 2mg tablets,Risperidone 2mg tablets,Tablet,Oral,Risperidone,2.000mg
+,,,,1176841000033116,321591001,Risperidone 3mg tablets,Risperidone 3mg tablets,Tablet,Oral,Risperidone,3.000mg
+,,,,1176941000033112,321592008,Risperidone 4mg tablets,Risperidone 4mg tablets,Tablet,Oral,Risperidone,4.000mg
+,,,,1177641000033119,153111000001109,Risperdal 6mg tablets (Janssen-Cilag Ltd),Risperdal 6mg tablets,Tablet,Oral,Risperidone,6.000mg
+,,,,1177741000033111,321599004,Risperidone 6mg tablets,Risperidone 6mg tablets,Tablet,Oral,Risperidone,6.000mg
+,,,,11781941000033118,33569711000001103,Brancico XL 150mg tablets (Zentiva Pharma UK Ltd),Brancico XL 150mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,150.000mg
+,,,,11782041000033112,33569011000001100,Brancico XL 200mg tablets (Zentiva Pharma UK Ltd),Brancico XL 200mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,200.000mg
+,,,,11782141000033111,33568811000001104,Brancico XL 300mg tablets (Zentiva Pharma UK Ltd),Brancico XL 300mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,300.000mg
+,,,,11782241000033116,33570111000001101,Brancico XL 400mg tablets (Zentiva Pharma UK Ltd),Brancico XL 400mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,400.000mg
+,,,,11782341000033114,33569911000001101,Brancico XL 50mg tablets (Zentiva Pharma UK Ltd),Brancico XL 50mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,50.000mg
+,,,,11876741000033116,18956611000001104,Chlorpromazine 25mg/5ml oral solution sugar free,Chlorpromazine 25mg/5ml oral solution sugar free,Oral solution,Oral,Chlorpromazine hydrochloride,5.000mg/1.000ml
+,,,,12428041000033114,34936811000001101,Atrolak XL 150mg tablets (Accord Healthcare Ltd),Atrolak XL 150mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,150.000mg
+,,,,12667641000033113,321387007,Chlorpromazine 100mg suppositories,Chlorpromazine 100mg suppositories,Suppository,Rectal,Chlorpromazine hydrochloride,100.000mg
+,,,,1268341000033116,522711000001106,Serenace 500microgram capsules (Teva UK Ltd),Serenace 500microgram capsules,Capsule,Oral,Haloperidol,500.000microgram
+,,,,1269741000033112,502611000001107,Serenace 2mg/ml liquid (Teva UK Ltd),Serenace 2mg/ml liquid,Oral solution,Oral,Haloperidol,2.000mg/1.000ml
+,,,,1271541000033112,3927511000001104,Serenace 20mg/2ml solution for injection ampoules (IVAX Pharmaceuticals UK Ltd),Serenace 20mg/2ml solution for injection ampoules,Solution for injection,Intravenous/ Intramuscular,Haloperidol,10.000mg/1.000ml
+,,,,1271641000033113,3245711000001101,Serenace 5mg/1ml solution for injection ampoules (IVAX Pharmaceuticals UK Ltd),Serenace 5mg/1ml solution for injection ampoules,Solution for injection,Intravenous/ Intramuscular,Haloperidol,5.000mg/1.000ml
+,,,,1275941000033115,899811000001103,Serenace 1.5mg tablets (Teva UK Ltd),Serenace 1.5mg tablets,Tablet,Oral,Haloperidol,1.500mg
+,,,,1276041000033113,113611000001108,Serenace 10mg tablets (Teva UK Ltd),Serenace 10mg tablets,Tablet,Oral,Haloperidol,10.000mg
+,,,,1276141000033112,387311000001101,Serenace 20mg tablets (Teva UK Ltd),Serenace 20mg tablets,Tablet,Oral,Haloperidol,20.000mg
+,,,,1276241000033117,228411000001106,Serenace 5mg tablets (Teva UK Ltd),Serenace 5mg tablets,Tablet,Oral,Haloperidol,5.000mg
+,,,,1277641000033116,340911000001108,Seroquel 100mg tablets (Luye Pharma Ltd),Seroquel 100mg tablets,Tablet,Oral,Quetiapine fumarate,100.000mg
+,,,,1277741000033113,476411000001108,Seroquel 200mg tablets (Luye Pharma Ltd),Seroquel 200mg tablets,Tablet,Oral,Quetiapine fumarate,200.000mg
+,,,,1277841000033115,596211000001109,Seroquel 25mg tablets (Luye Pharma Ltd),Seroquel 25mg tablets,Tablet,Oral,Quetiapine fumarate,25.000mg
+,,,,12910641000033110,36753211000001109,Topiramate 50mg/5ml oral suspension sugar free,Topiramate 50mg/5ml oral suspension sugar free,Oral suspension,Oral,Topiramate,10.000mg/1.000ml
+,,,,12910741000033118,36753111000001103,Topiramate 100mg/5ml oral suspension sugar free,Topiramate 100mg/5ml oral suspension sugar free,Oral suspension,Oral,Topiramate,20.000mg/1.000ml
+,,,,12988741000033118,36905011000001104,Olanzapine 2.5mg orodispersible tablets sugar free,Olanzapine 2.5mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Olanzapine,2.500mg
+,,,,12988841000033111,36905111000001103,Olanzapine 7.5mg orodispersible tablets sugar free,Olanzapine 7.5mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Olanzapine,7.500mg
+,,,,12990341000033118,36868411000001105,Arpoya 5mg tablets (Torrent Pharma (UK) Ltd),Arpoya 5mg tablets,Tablet,Oral,Aripiprazole,5.000mg
+,,,,13158341000033119,37697511000001102,Clozapine 100mg orodispersible tablets sugar free,Clozapine 100mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Clozapine,100.000mg
+,,,,13158441000033113,37697711000001107,Clozapine 12.5mg orodispersible tablets sugar free,Clozapine 12.5mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Clozapine,12.500mg
+,,,,13158541000033114,37697811000001104,Clozapine 200mg orodispersible tablets sugar free,Clozapine 200mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Clozapine,200.000mg
+,,,,13158641000033110,37697911000001109,Clozapine 25mg orodispersible tablets sugar free,Clozapine 25mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Clozapine,25.000mg
+,,,,13158741000033118,37698011000001106,Clozapine 50mg orodispersible tablets sugar free,Clozapine 50mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Clozapine,50.000mg
+,,,,13353241000033112,37249011000001105,Aripiprazole 1mg/ml oral solution sugar free,Aripiprazole 1mg/ml oral solution sugar free,Oral solution,Oral,Aripiprazole,1.000mg/1.000ml
+,,,,13581641000033117,38696711000001103,Risperidone 250microgram tablets,Risperidone 250microgram tablets,Tablet,Oral,Risperidone,250.000microgram
+,,,,1366641000033118,319511000001103,Solian 200 tablets (Sanofi),Solian 200 tablets,Tablet,Oral,Amisulpride,200.000mg
+,,,,1366741000033110,24311000001100,Solian 50 tablets (Sanofi),Solian 50 tablets,Tablet,Oral,Amisulpride,50.000mg
+,,,,13734841000033110,39027411000001105,Quetiapine 600mg modified-release tablets,Quetiapine 600mg modified-release tablets,Modified-release tablet,Oral,Quetiapine fumarate,600.000mg
+,,,,13734941000033119,39005011000001102,Biquelle XL 600mg tablets (Aspire Pharma Ltd),Biquelle XL 600mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,600.000mg
+,,,,1385341000033116,213711000001101,Stelazine 10mg Spansules (Mercury Pharma Group Ltd),Stelazine 10mg Spansules,Modified-release capsule,Oral,Trifluoperazine hydrochloride,10.000mg
+,,,,1385441000033110,710411000001106,Stelazine 15mg Spansules (Mercury Pharma Group Ltd),Stelazine 15mg Spansules,Modified-release capsule,Oral,Trifluoperazine hydrochloride,15.000mg
+,,,,1385541000033111,714111000001105,Stelazine 2mg Spansules (Mercury Pharma Group Ltd),Stelazine 2mg Spansules,Modified-release capsule,Oral,Trifluoperazine hydrochloride,2.000mg
+,,,,1385941000033117,636711000001103,Stelazine 1mg/5ml syrup (Mercury Pharma Group Ltd),Stelazine 1mg/5ml syrup,Oral solution,Oral,Trifluoperazine hydrochloride,200.000microgram/1.000ml
+,,,,1386341000033112,325311000001103,Stelazine 1mg tablets (Mercury Pharma Group Ltd),Stelazine 1mg tablets,Tablet,Oral,Trifluoperazine hydrochloride,1.000mg
+,,,,1386441000033118,45811000001107,Stelazine 5mg tablets (Mercury Pharma Group Ltd),Stelazine 5mg tablets,Tablet,Oral,Trifluoperazine hydrochloride,5.000mg
+,,,,1396441000033117,321514005,Sulpiride 200mg tablets,Sulpiride 200mg tablets,Tablet,Oral,Sulpiride,200.000mg
+,,,,1396541000033116,246411000001108,Sulpitil 200mg tablets (Pfizer Ltd),Sulpitil 200mg tablets,Tablet,Oral,Sulpiride,200.000mg
+,,,,1397641000033117,321512009,Sulpiride 400mg tablets,Sulpiride 400mg tablets,Tablet,Oral,Sulpiride,400.000mg
+,,,,1450441000033115,823811000001105,Topamax 100mg tablets (Janssen-Cilag Ltd),Topamax 100mg tablets,Tablet,Oral,Topiramate,100.000mg
+,,,,1450541000033119,235111000001108,Topamax 200mg tablets (Janssen-Cilag Ltd),Topamax 200mg tablets,Tablet,Oral,Topiramate,200.000mg
+,,,,1450641000033118,138611000001109,Topamax 50mg tablets (Janssen-Cilag Ltd),Topamax 50mg tablets,Tablet,Oral,Topiramate,50.000mg
+,,,,1451441000033112,290011000001107,Topamax 25mg tablets (Janssen-Cilag Ltd),Topamax 25mg tablets,Tablet,Oral,Topiramate,25.000mg
+,,,,1451541000033113,323024000,Topiramate 100mg tablets,Topiramate 100mg tablets,Tablet,Oral,Topiramate,100.000mg
+,,,,1451641000033114,323025004,Topiramate 200mg tablets,Topiramate 200mg tablets,Tablet,Oral,Topiramate,200.000mg
+,,,,1451741000033117,323029005,Topiramate 25mg tablets,Topiramate 25mg tablets,Tablet,Oral,Topiramate,25.000mg
+,,,,1451841000033110,323023006,Topiramate 50mg tablets,Topiramate 50mg tablets,Tablet,Oral,Topiramate,50.000mg
+,,,,1464141000033113,38750711000001100,Trifluoperazine 5mg/5ml oral solution sugar free,Trifluoperazine 5mg/5ml oral solution sugar free,Oral solution,Oral,Trifluoperazine hydrochloride,1.000mg/1.000ml
+,,,,1466941000033117,36143111000001105,Trifluoperazine 10mg modified-release capsules,Trifluoperazine 10mg modified-release capsules,Modified-release capsule,Oral,Trifluoperazine hydrochloride,10.000mg
+,,,,1467041000033116,36143211000001104,Trifluoperazine 15mg modified-release capsules,Trifluoperazine 15mg modified-release capsules,Modified-release capsule,Oral,Trifluoperazine hydrochloride,15.000mg
+,,,,1467141000033117,36143511000001101,Trifluoperazine 2mg modified-release capsules,Trifluoperazine 2mg modified-release capsules,Modified-release capsule,Oral,Trifluoperazine hydrochloride,2.000mg
+,,,,1467641000033110,36143311000001107,Trifluoperazine 1mg/5ml oral solution sugar free,Trifluoperazine 1mg/5ml oral solution sugar free,Oral solution,Oral,Trifluoperazine hydrochloride,200.000microgram/1.000ml
+,,,,1470641000033116,39706011000001108,Trifluoperazine 1mg tablets,Trifluoperazine 1mg tablets,Tablet,Oral,Trifluoperazine hydrochloride,1.000mg
+,,,,1470741000033113,39706211000001103,Trifluoperazine 5mg tablets,Trifluoperazine 5mg tablets,Tablet,Oral,Trifluoperazine hydrochloride,5.000mg
+,,,,1563441000033114,36151811000001100,Zuclopenthixol acetate 100mg/2ml solution for injection ampoules,Zuclopenthixol acetate 100mg/2ml solution for injection ampoules,Solution for injection,Intramuscular,Zuclopenthixol acetate,50.000mg/1.000ml
+,,,,1563541000033110,36152011000001103,Zuclopenthixol acetate 50mg/1ml solution for injection ampoules,Zuclopenthixol acetate 50mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Zuclopenthixol acetate,50.000mg/1.000ml
+,,,,1563641000033111,36152111000001102,Zuclopenthixol decanoate 200mg/1ml solution for injection ampoules,Zuclopenthixol decanoate 200mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Zuclopenthixol decanoate,200.000mg/1.000ml
+,,,,1563741000033119,36152211000001108,Zuclopenthixol decanoate 500mg/1ml solution for injection ampoules,Zuclopenthixol decanoate 500mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Zuclopenthixol decanoate,500.000mg/1.000ml
+,,,,1564041000033119,39707711000001108,Zuclopenthixol 10mg tablets,Zuclopenthixol 10mg tablets,Tablet,Oral,Zuclopenthixol dihydrochloride,10.000mg
+,,,,1564141000033115,39707911000001105,Zuclopenthixol 2mg tablets,Zuclopenthixol 2mg tablets,Tablet,Oral,Zuclopenthixol dihydrochloride,2.000mg
+,,,,1564241000033110,39708111000001108,Zuclopenthixol 25mg tablets,Zuclopenthixol 25mg tablets,Tablet,Oral,Zuclopenthixol dihydrochloride,25.000mg
+,,,,1565141000033119,486611000001101,Zyprexa 10mg tablets (Eli Lilly and Company Ltd),Zyprexa 10mg tablets,Tablet,Oral,Olanzapine,10.000mg
+,,,,1565241000033114,467011000001109,Zyprexa 5mg tablets (Eli Lilly and Company Ltd),Zyprexa 5mg tablets,Tablet,Oral,Olanzapine,5.000mg
+,,,,1565341000033116,776911000001109,Zyprexa 7.5mg tablets (Eli Lilly and Company Ltd),Zyprexa 7.5mg tablets,Tablet,Oral,Olanzapine,7.500mg
+,,,,1661141000033114,321618003,Olanzapine 2.5mg tablets,Olanzapine 2.5mg tablets,Tablet,Oral,Olanzapine,2.500mg
+,,,,1698441000033110,35931111000001108,Sulpiride 200mg/5ml oral solution sugar free,Sulpiride 200mg/5ml oral solution sugar free,Oral solution,Oral,Sulpiride,40.000mg/1.000ml
+,,,,1713941000033118,337311000001109,Zyprexa 2.5mg tablets (Eli Lilly and Company Ltd),Zyprexa 2.5mg tablets,Tablet,Oral,Olanzapine,2.500mg
+,,,,1719341000033115,8359411000001103,Chlorpromazine 100mg/5ml oral solution,Chlorpromazine 100mg/5ml oral solution,Oral solution,Oral,Chlorpromazine hydrochloride,20.000mg/1.000ml
+,,,,1844641000033118,39703111000001104,Quetiapine 150mg tablets,Quetiapine 150mg tablets,Tablet,Oral,Quetiapine fumarate,150.000mg
+,,,,1844741000033110,4111000001106,Seroquel 150mg tablets (AstraZeneca UK Ltd),Seroquel 150mg tablets,Tablet,Oral,Quetiapine fumarate,150.000mg
+,,,,1847941000033118,4205011000001105,Topamax 15mg sprinkle capsules (Janssen-Cilag Ltd),Topamax 15mg sprinkle capsules,Capsule,Oral,Topiramate,15.000mg
+,,,,1848041000033115,4206011000001101,Topamax 25mg sprinkle capsules (Janssen-Cilag Ltd),Topamax 25mg sprinkle capsules,Capsule,Oral,Topiramate,25.000mg
+,,,,2077741000033115,321622008,Olanzapine 5mg oral lyophilisates sugar free,Olanzapine 5mg oral lyophilisates sugar free,Oral lyophilisate,Oral,Olanzapine,5.000mg
+,,,,2077841000033113,321623003,Olanzapine 10mg oral lyophilisates sugar free,Olanzapine 10mg oral lyophilisates sugar free,Oral lyophilisate,Oral,Olanzapine,10.000mg
+,,,,2077941000033117,91711000001108,Zyprexa 5mg Velotabs (Eli Lilly and Company Ltd),Zyprexa 5mg Velotabs,Oral lyophilisate,Oral,Olanzapine,5.000mg
+,,,,2078041000033119,897111000001104,Zyprexa 10mg Velotabs (Eli Lilly and Company Ltd),Zyprexa 10mg Velotabs,Oral lyophilisate,Oral,Olanzapine,10.000mg
+,,,,2188141000033115,526611000001101,Risperdal 500microgram tablets (Janssen-Cilag Ltd),Risperdal 500microgram tablets,Tablet,Oral,Risperidone,500.000microgram
+,,,,2188241000033110,321602009,Risperidone 500microgram tablets,Risperidone 500microgram tablets,Tablet,Oral,Risperidone,500.000microgram
+,,,,2216641000033113,134517009,Amisulpride 400mg tablets,Amisulpride 400mg tablets,Tablet,Oral,Amisulpride,400.000mg
+,,,,2216741000033116,254011000001107,Solian 400 tablets (Sanofi),Solian 400 tablets,Tablet,Oral,Amisulpride,400.000mg
+,,,,2217641000033111,4206411000001105,Topamax 50mg sprinkle capsules (Janssen-Cilag Ltd),Topamax 50mg sprinkle capsules,Capsule,Oral,Topiramate,50.000mg
+,,,,240041000033110,36138311000001103,Chlorpromazine 25mg/5ml oral solution,Chlorpromazine 25mg/5ml oral solution,Oral solution,Oral,Chlorpromazine hydrochloride,5.000mg/1.000ml
+,,,,241341000033116,36138411000001105,Chlorpromazine 50mg/2ml solution for injection ampoules,Chlorpromazine 50mg/2ml solution for injection ampoules,Solution for injection,Intramuscular,Chlorpromazine hydrochloride,25.000mg/1.000ml
+,,,,246641000033118,36137911000001103,Chlorpromazine 100mg/5ml oral suspension sugar free,Chlorpromazine 100mg/5ml oral suspension sugar free,Oral suspension,Oral,Chlorpromazine embonate,20.000mg/1.000ml
+,,,,249041000033117,321365003,Chlorpromazine 10mg tablets,Chlorpromazine 10mg tablets,Tablet,Oral,Chlorpromazine hydrochloride,10.000mg
+,,,,249141000033118,321368001,Chlorpromazine 100mg tablets,Chlorpromazine 100mg tablets,Tablet,Oral,Chlorpromazine hydrochloride,100.000mg
+,,,,249241000033113,321366002,Chlorpromazine 25mg tablets,Chlorpromazine 25mg tablets,Tablet,Oral,Chlorpromazine hydrochloride,25.000mg
+,,,,249341000033115,321367006,Chlorpromazine 50mg tablets,Chlorpromazine 50mg tablets,Tablet,Oral,Chlorpromazine hydrochloride,50.000mg
+,,,,2644841000033114,35901111000001102,Amisulpride 100mg/ml oral solution sugar free,Amisulpride 100mg/ml oral solution sugar free,Oral solution,Oral,Amisulpride,100.000mg/1.000ml
+,,,,2644941000033118,3933811000001105,Solian 100mg/ml oral solution (Sanofi),Solian 100mg/ml oral solution,Oral solution,Oral,Amisulpride,100.000mg/1.000ml
+,,,,2658941000033110,145511000001103,Sulpor 200mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Sulpor 200mg/5ml oral solution,Oral solution,Oral,Sulpiride,40.000mg/1.000ml
+,,,,273641000033114,4129911000001100,Clopixol Acuphase 50mg/1ml solution for injection ampoules (Lundbeck Ltd),Clopixol Acuphase 50mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Zuclopenthixol acetate,50.000mg/1.000ml
+,,,,274841000033112,4130411000001101,Clopixol Acuphase 100mg/2ml solution for injection ampoules (Lundbeck Ltd),Clopixol Acuphase 100mg/2ml solution for injection ampoules,Solution for injection,Intramuscular,Zuclopenthixol acetate,50.000mg/1.000ml
+,,,,2758141000033116,30799611000001105,Haloperidol 200micrograms/ml oral solution sugar free,Haloperidol 200micrograms/ml oral solution sugar free,Oral solution,Oral,Haloperidol,200.000microgram/1.000ml
+,,,,2759641000033117,376807001,Olanzapine 15mg tablets,Olanzapine 15mg tablets,Tablet,Oral,Olanzapine,15.000mg
+,,,,2759741000033114,3434911000001100,Olanzapine 15mg oral lyophilisates sugar free,Olanzapine 15mg oral lyophilisates sugar free,Oral lyophilisate,Oral,Olanzapine,15.000mg
+,,,,2759841000033116,511111000001106,Zyprexa 15mg tablets (Eli Lilly and Company Ltd),Zyprexa 15mg tablets,Tablet,Oral,Olanzapine,15.000mg
+,,,,2759941000033112,437611000001106,Zyprexa 15mg Velotabs (Eli Lilly and Company Ltd),Zyprexa 15mg Velotabs,Oral lyophilisate,Oral,Olanzapine,15.000mg
+,,,,276041000033113,178611000001106,Clopixol 200mg/1ml solution for injection ampoules (Lundbeck Ltd),Clopixol 200mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Zuclopenthixol decanoate,200.000mg/1.000ml
+,,,,276141000033112,32911000001106,Clopixol Conc 500mg/1ml solution for injection ampoules (Lundbeck Ltd),Clopixol Conc 500mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Zuclopenthixol decanoate,500.000mg/1.000ml
+,,,,2779841000033118,4520711000001102,Risperdal Consta 25mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd),Risperdal Consta 25mg powder and solvent for suspension for injection vials,Powder and solvent for suspension for injection,Intramuscular,Risperidone,25.000mg
+,,,,2779941000033114,4166711000001102,Risperdal Consta 37.5mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd),Risperdal Consta 37.5mg powder and solvent for suspension for injection vials,Powder and solvent for suspension for injection,Intramuscular,Risperidone,37.500mg
+,,,,2780041000033113,4167011000001101,Risperdal Consta 50mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd),Risperdal Consta 50mg powder and solvent for suspension for injection vials,Powder and solvent for suspension for injection,Intramuscular,Risperidone,50.000mg
+,,,,2780141000033112,4559111000001109,Risperidone 25mg powder and solvent for suspension for injection vials,Risperidone 25mg powder and solvent for suspension for injection vials,Powder and solvent for suspension for injection,Intramuscular,Risperidone,25.000mg
+,,,,2780241000033117,4176911000001105,Risperidone 37.5mg powder and solvent for suspension for injection vials,Risperidone 37.5mg powder and solvent for suspension for injection vials,Powder and solvent for suspension for injection,Intramuscular,Risperidone,37.500mg
+,,,,2780341000033110,4177011000001109,Risperidone 50mg powder and solvent for suspension for injection vials,Risperidone 50mg powder and solvent for suspension for injection vials,Powder and solvent for suspension for injection,Intramuscular,Risperidone,50.000mg
+,,,,2835141000033114,400645002,Amisulpride 100mg tablets,Amisulpride 100mg tablets,Tablet,Oral,Amisulpride,100.000mg
+,,,,2835241000033119,2841911000001104,Solian 100 tablets (Sanofi),Solian 100 tablets,Tablet,Oral,Amisulpride,100.000mg
+,,,,284941000033113,3830311000001101,Clozaril 25mg tablets (Mylan),Clozaril 25mg tablets,Tablet,Oral,Clozapine,25.000mg
+,,,,285041000033113,3832011000001100,Clozaril 100mg tablets (Mylan),Clozaril 100mg tablets,Tablet,Oral,Clozapine,100.000mg
+,,,,2868841000033116,4054011000001109,Risperidone 1mg orodispersible tablets sugar free,Risperidone 1mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Risperidone,1.000mg
+,,,,2868941000033112,4054111000001105,Risperidone 2mg orodispersible tablets sugar free,Risperidone 2mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Risperidone,2.000mg
+,,,,2869041000033115,4039211000001101,Risperdal Quicklet 1mg orodispersible tablets (Janssen-Cilag Ltd),Risperdal Quicklet 1mg orodispersible tablets,Orodispersible tablet,Oral,Risperidone,1.000mg
+,,,,2869141000033116,4039711000001108,Risperdal Quicklet 2mg orodispersible tablets (Janssen-Cilag Ltd),Risperdal Quicklet 2mg orodispersible tablets,Orodispersible tablet,Oral,Risperidone,2.000mg
+,,,,286941000033115,827511000001102,Clopixol 10mg tablets (Lundbeck Ltd),Clopixol 10mg tablets,Tablet,Oral,Zuclopenthixol dihydrochloride,10.000mg
+,,,,287041000033119,153611000001101,Clopixol 2mg tablets (Lundbeck Ltd),Clopixol 2mg tablets,Tablet,Oral,Zuclopenthixol dihydrochloride,2.000mg
+,,,,287141000033115,618211000001102,Clopixol 25mg tablets (Lundbeck Ltd),Clopixol 25mg tablets,Tablet,Oral,Zuclopenthixol dihydrochloride,25.000mg
+,,,,287541000033112,321574000,Clozapine 100mg tablets,Clozapine 100mg tablets,Tablet,Oral,Clozapine,100.000mg
+,,,,287641000033113,321573006,Clozapine 25mg tablets,Clozapine 25mg tablets,Tablet,Oral,Clozapine,25.000mg
+,,,,2929741000033118,36053511000001109,Haloperidol 5mg/1ml solution for injection ampoules,Haloperidol 5mg/1ml solution for injection ampoules,Solution for injection,Intramuscular/ Intravenous,Haloperidol,5.000mg/1.000ml
+,,,,2929841000033111,3246911000001106,Haldol 5mg/1ml solution for injection ampoules (Janssen-Cilag Ltd),Haldol 5mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Haloperidol,5.000mg/1.000ml
+,,,,2955541000033113,322411000001102,Terrazine 1mg tablets (Dr Reddy's Laboratories (UK) Ltd),Terrazine 1mg tablets,Tablet,Oral,Trifluoperazine hydrochloride,1.000mg
+,,,,2973141000033118,8723911000001108,Topiramate 25mg/5ml oral suspension,Topiramate 25mg/5ml oral suspension,Oral suspension,Oral,Topiramate,5.000mg/1.000ml
+,,,,2975841000033113,429830008,Quetiapine 300mg tablets,Quetiapine 300mg tablets,Tablet,Oral,Quetiapine fumarate,300.000mg
+,,,,2975941000033117,4989111000001106,Seroquel 300mg tablets (Luye Pharma Ltd),Seroquel 300mg tablets,Tablet,Oral,Quetiapine fumarate,300.000mg
+,,,,3030841000033118,5818311000001104,Olanzapine 10mg powder for solution for injection vials,Olanzapine 10mg powder for solution for injection vials,Powder for solution for injection,Intramuscular,Olanzapine,10.000mg
+,,,,3076141000033111,8723811000001103,Topiramate 50mg/5ml oral suspension,Topiramate 50mg/5ml oral suspension,Oral suspension,Oral,Topiramate,10.000mg/1.000ml
+,,,,3090541000033111,36058011000001108,Flupentixol 50mg/0.5ml solution for injection ampoules,Flupentixol 50mg/0.5ml solution for injection ampoules,Solution for injection,Intramuscular,Flupentixol decanoate,100.000mg/1.000ml
+,,,,3090641000033112,36068611000001107,Flupentixol 100mg/1ml solution for injection ampoules,Flupentixol 100mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Flupentixol decanoate,100.000mg/1.000ml
+,,,,3090741000033115,36068711000001103,Flupentixol 200mg/1ml solution for injection ampoules,Flupentixol 200mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Flupentixol decanoate,200.000mg/1.000ml
+,,,,3090841000033113,36068811000001106,Flupentixol 20mg/1ml solution for injection ampoules,Flupentixol 20mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Flupentixol decanoate,20.000mg/1.000ml
+,,,,3090941000033117,36068911000001101,Flupentixol 40mg/2ml solution for injection ampoules,Flupentixol 40mg/2ml solution for injection ampoules,Solution for injection,Intramuscular,Flupentixol decanoate,20.000mg/1.000ml
+,,,,3091041000033110,39692311000001104,Flupentixol 1mg tablets,Flupentixol 1mg tablets,Tablet,Oral,Flupentixol dihydrochloride,1.000mg
+,,,,3091141000033114,39692511000001105,Flupentixol 500microgram tablets,Flupentixol 500microgram tablets,Tablet,Oral,Flupentixol dihydrochloride,500.000microgram
+,,,,3091241000033119,39692411000001106,Flupentixol 3mg tablets,Flupentixol 3mg tablets,Tablet,Oral,Flupentixol dihydrochloride,3.000mg
+,,,,3103841000033110,36016711000001103,Pipotiazine 100mg/2ml solution for injection ampoules,Pipotiazine 100mg/2ml solution for injection ampoules,Solution for injection,Intramuscular,Pipotiazine palmitate,50.000mg/1.000ml
+,,,,3104041000033117,36016911000001101,Pipotiazine 50mg/1ml solution for injection ampoules,Pipotiazine 50mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Pipotiazine palmitate,50.000mg/1.000ml
+,,,,3137541000033113,406787003,Aripiprazole 10mg tablets,Aripiprazole 10mg tablets,Tablet,Oral,Aripiprazole,10.000mg
+,,,,3137641000033114,406788008,Aripiprazole 15mg tablets,Aripiprazole 15mg tablets,Tablet,Oral,Aripiprazole,15.000mg
+,,,,3137741000033117,406790009,Aripiprazole 30mg tablets,Aripiprazole 30mg tablets,Tablet,Oral,Aripiprazole,30.000mg
+,,,,3137841000033110,7637111000001104,Abilify 10mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd),Abilify 10mg tablets,Tablet,Oral,Aripiprazole,10.000mg
+,,,,3137941000033119,7637411000001109,Abilify 15mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd),Abilify 15mg tablets,Tablet,Oral,Aripiprazole,15.000mg
+,,,,3138041000033116,7637811000001106,Abilify 30mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd),Abilify 30mg tablets,Tablet,Oral,Aripiprazole,30.000mg
+,,,,3141141000033114,7740511000001103,Stelazine Forte 1mg/ml oral solution (Mercury Pharma Group Ltd),Stelazine Forte 1mg/ml oral solution,Oral solution,Oral,Trifluoperazine hydrochloride,1.000mg/1.000ml
+,,,,3158941000033116,7972911000001104,Denzapine 25mg tablets (Britannia Pharmaceuticals Ltd),Denzapine 25mg tablets,Tablet,Oral,Clozapine,25.000mg
+,,,,3159041000033113,7974011000001109,Denzapine 100mg tablets (Britannia Pharmaceuticals Ltd),Denzapine 100mg tablets,Tablet,Oral,Clozapine,100.000mg
+,,,,3189041000033117,35919911000001103,Topiramate 15mg capsules,Topiramate 15mg capsules,Capsule,Oral,Topiramate,15.000mg
+,,,,3189141000033118,35920011000001101,Topiramate 25mg capsules,Topiramate 25mg capsules,Capsule,Oral,Topiramate,25.000mg
+,,,,3189241000033113,35920111000001100,Topiramate 50mg capsules,Topiramate 50mg capsules,Capsule,Oral,Topiramate,50.000mg
+,,,,3225241000033118,406786007,Aripiprazole 5mg tablets,Aripiprazole 5mg tablets,Tablet,Oral,Aripiprazole,5.000mg
+,,,,3225341000033111,9037911000001102,Abilify 5mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd),Abilify 5mg tablets,Tablet,Oral,Aripiprazole,5.000mg
+,,,,3226341000033115,8838911000001102,Zaponex 25mg tablets (Leyden Delta B.V.),Zaponex 25mg tablets,Tablet,Oral,Clozapine,25.000mg
+,,,,3226441000033114,8839511000001103,Zaponex 100mg tablets (Leyden Delta B.V.),Zaponex 100mg tablets,Tablet,Oral,Clozapine,100.000mg
+,,,,3246041000033119,9045911000001108,Risperidone 500microgram orodispersible tablets sugar free,Risperidone 500microgram orodispersible tablets sugar free,Orodispersible tablet,Oral,Risperidone,500.000microgram
+,,,,3246141000033115,9044211000001100,Risperdal Quicklet 500microgram orodispersible tablets (Janssen-Cilag Ltd),Risperdal Quicklet 500microgram orodispersible tablets,Orodispersible tablet,Oral,Risperidone,500.000microgram
+,,,,3849441000033112,8359711000001109,Chlorpromazine 50mg/5ml oral solution,Chlorpromazine 50mg/5ml oral solution,Oral solution,Oral,Chlorpromazine hydrochloride,10.000mg/1.000ml
+,,,,3858941000033110,36138211000001106,Chlorpromazine 25mg/1ml solution for injection ampoules,Chlorpromazine 25mg/1ml solution for injection ampoules,Solution for injection,Intravenous/ Intramuscular,Chlorpromazine hydrochloride,25.000mg/1.000ml
+,,,,3866541000033110,386213008,Olanzapine 20mg oral lyophilisates sugar free,Olanzapine 20mg oral lyophilisates sugar free,Oral lyophilisate,Oral,Olanzapine,20.000mg
+,,,,3866641000033111,9891011000001103,Zyprexa 20mg Velotabs (Eli Lilly and Company Ltd),Zyprexa 20mg Velotabs,Oral lyophilisate,Oral,Olanzapine,20.000mg
+,,,,3892541000033114,14015911000001104,Olanzapine 2.5mg/5ml oral suspension,Olanzapine 2.5mg/5ml oral suspension,Oral suspension,Oral,Olanzapine,500.000microgram/1.000ml
+,,,,3950341000033115,10675311000001102,Aripiprazole 10mg orodispersible tablets sugar free,Aripiprazole 10mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Aripiprazole,10.000mg
+,,,,3950441000033114,10675411000001109,Aripiprazole 15mg orodispersible tablets sugar free,Aripiprazole 15mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Aripiprazole,15.000mg
+,,,,3950541000033110,417374006,Aripiprazole 1mg/ml oral solution,Aripiprazole 1mg/ml oral solution,Oral solution,Oral,Aripiprazole,1.000mg/1.000ml
+,,,,3950641000033111,10664611000001100,Abilify 10mg orodispersible tablets (Otsuka Pharmaceuticals (U.K.) Ltd),Abilify 10mg orodispersible tablets,Orodispersible tablet,Oral,Aripiprazole,10.000mg
+,,,,3950741000033119,10664911000001106,Abilify 15mg orodispersible tablets (Otsuka Pharmaceuticals (U.K.) Ltd),Abilify 15mg orodispersible tablets,Orodispersible tablet,Oral,Aripiprazole,15.000mg
+,,,,3950841000033112,10667211000001109,Abilify 1mg/ml oral solution (Otsuka Pharmaceuticals (U.K.) Ltd),Abilify 1mg/ml oral solution,Oral solution,Oral,Aripiprazole,1.000mg/1.000ml
+,,,,3996241000033117,374054003,Olanzapine 20mg tablets,Olanzapine 20mg tablets,Tablet,Oral,Olanzapine,20.000mg
+,,,,3996341000033110,10878511000001107,Zyprexa 20mg tablets (Eli Lilly and Company Ltd),Zyprexa 20mg tablets,Tablet,Oral,Olanzapine,20.000mg
+,,,,4012041000033116,11140811000001105,Risperidone 3mg orodispersible tablets sugar free,Risperidone 3mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Risperidone,3.000mg
+,,,,4012141000033117,11140911000001100,Risperidone 4mg orodispersible tablets sugar free,Risperidone 4mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Risperidone,4.000mg
+,,,,4012241000033112,11134611000001103,Risperdal Quicklet 3mg orodispersible tablets (Janssen-Cilag Ltd),Risperdal Quicklet 3mg orodispersible tablets,Orodispersible tablet,Oral,Risperidone,3.000mg
+,,,,4012341000033119,11134311000001108,Risperdal Quicklet 4mg orodispersible tablets (Janssen-Cilag Ltd),Risperdal Quicklet 4mg orodispersible tablets,Orodispersible tablet,Oral,Risperidone,4.000mg
+,,,,419941000033113,3104011000001105,Depixol Low Volume 200mg/1ml solution for injection ampoules (Lundbeck Ltd),Depixol Low Volume 200mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Flupentixol decanoate,200.000mg/1.000ml
+,,,,420141000033110,3102111000001103,Depixol 40mg/2ml solution for injection ampoules (Lundbeck Ltd),Depixol 40mg/2ml solution for injection ampoules,Solution for injection,Intramuscular,Flupentixol decanoate,20.000mg/1.000ml
+,,,,420441000033119,3100711000001101,Depixol Conc 50mg/0.5ml solution for injection ampoules (Lundbeck Ltd),Depixol Conc 50mg/0.5ml solution for injection ampoules,Solution for injection,Intramuscular,Flupentixol decanoate,100.000mg/1.000ml
+,,,,422941000033113,3102911000001100,Depixol 20mg/1ml solution for injection ampoules (Lundbeck Ltd),Depixol 20mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Flupentixol decanoate,20.000mg/1.000ml
+,,,,423041000033115,3101311000001105,Depixol Conc 100mg/1ml solution for injection ampoules (Lundbeck Ltd),Depixol Conc 100mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Flupentixol decanoate,100.000mg/1.000ml
+,,,,431741000033118,3679611000001105,Depixol 3mg tablets (Lundbeck Ltd),Depixol 3mg tablets,Tablet,Oral,Flupentixol dihydrochloride,3.000mg
+,,,,4422541000033110,14018711000001108,Quetiapine 100mg/5ml oral suspension,Quetiapine 100mg/5ml oral suspension,Oral suspension,Oral,Quetiapine fumarate,20.000mg/1.000ml
+,,,,4424541000033119,12505911000001109,Haloperidol 5mg/5ml oral solution,Haloperidol 5mg/5ml oral solution,Oral solution,Oral,Haloperidol,1.000mg/1.000ml
+,,,,4456741000033117,13456411000001100,Aripiprazole 9.75mg/1.3ml solution for injection vials,Aripiprazole 9.75mg/1.3ml solution for injection vials,Solution for injection,Intramuscular,Aripiprazole,7.500mg/1.000ml
+,,,,4456841000033110,13451111000001101,Abilify 9.75mg/1.3ml solution for injection vials (Otsuka Pharmaceuticals (U.K.) Ltd),Abilify 9.75mg/1.3ml solution for injection vials,Solution for injection,Intramuscular,Aripiprazole,7.500mg/1.000ml
+,,,,4591741000033114,14042811000001105,Quetiapine 50mg modified-release tablets,Quetiapine 50mg modified-release tablets,Modified-release tablet,Oral,Quetiapine fumarate,50.000mg
+,,,,4591841000033116,426802009,Quetiapine 200mg modified-release tablets,Quetiapine 200mg modified-release tablets,Modified-release tablet,Oral,Quetiapine fumarate,200.000mg
+,,,,4591941000033112,426401009,Quetiapine 300mg modified-release tablets,Quetiapine 300mg modified-release tablets,Modified-release tablet,Oral,Quetiapine fumarate,300.000mg
+,,,,4592041000033118,426954000,Quetiapine 400mg modified-release tablets,Quetiapine 400mg modified-release tablets,Modified-release tablet,Oral,Quetiapine fumarate,400.000mg
+,,,,4592141000033119,14026511000001105,Seroquel XL 50mg tablets (Luye Pharma Ltd),Seroquel XL 50mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,50.000mg
+,,,,4592241000033114,14025311000001109,Seroquel XL 200mg tablets (Luye Pharma Ltd),Seroquel XL 200mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,200.000mg
+,,,,4592341000033116,14026011000001102,Seroquel XL 300mg tablets (Luye Pharma Ltd),Seroquel XL 300mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,300.000mg
+,,,,4592441000033110,14025711000001108,Seroquel XL 400mg tablets (Luye Pharma Ltd),Seroquel XL 400mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,400.000mg
+,,,,476541000033119,463911000001104,Dozic 5mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Dozic 5mg/5ml oral solution,Oral solution,Oral,Haloperidol,1.000mg/1.000ml
+,,,,479841000033112,416411000001101,Dolmatil 400mg tablets (Sanofi),Dolmatil 400mg tablets,Tablet,Oral,Sulpiride,400.000mg
+,,,,480941000033116,44411000001109,Dolmatil 200mg tablets (Sanofi),Dolmatil 200mg tablets,Tablet,Oral,Sulpiride,200.000mg
+,,,,4940141000033119,8277211000001103,Amisulpride 25mg/5ml oral solution,Amisulpride 25mg/5ml oral solution,Oral solution,Oral,Amisulpride,5.000mg/1.000ml
+,,,,5054641000033118,8527911000001100,Haloperidol 1mg/5ml oral solution,Haloperidol 1mg/5ml oral solution,Oral solution,Oral,Haloperidol,200.000microgram/1.000ml
+,,,,5077641000033110,15506311000001101,Clozapine 50mg/ml oral suspension sugar free,Clozapine 50mg/ml oral suspension sugar free,Oral suspension,Oral,Clozapine,50.000mg/1.000ml
+,,,,5077741000033118,15506011000001104,Denzapine 50mg/ml oral suspension (Britannia Pharmaceuticals Ltd),Denzapine 50mg/ml oral suspension,Oral suspension,Oral,Clozapine,50.000mg/1.000ml
+,,,,5077941000033115,15506211000001109,Clozapine 200mg tablets,Clozapine 200mg tablets,Tablet,Oral,Clozapine,200.000mg
+,,,,5078041000033117,418754000,Clozapine 50mg tablets,Clozapine 50mg tablets,Tablet,Oral,Clozapine,50.000mg
+,,,,5078141000033118,15505711000001105,Denzapine 200mg tablets (Britannia Pharmaceuticals Ltd),Denzapine 200mg tablets,Tablet,Oral,Clozapine,200.000mg
+,,,,5078241000033113,15498911000001105,Denzapine 50mg tablets (Britannia Pharmaceuticals Ltd),Denzapine 50mg tablets,Tablet,Oral,Clozapine,50.000mg
+,,,,5377241000033111,13324511000001102,Topiramate 100mg/5ml oral suspension,Topiramate 100mg/5ml oral suspension,Oral suspension,Oral,Topiramate,20.000mg/1.000ml
+,,,,5565141000033118,17038411000001101,Zypadhera 300mg powder and solvent for suspension for injection vials (Eli Lilly and Company Ltd),Zypadhera 300mg powder and solvent for suspension for injection vials,Powder and solvent for suspension for injection,Intramuscular,Olanzapine embonate monohydrate,300.000mg
+,,,,5575741000033110,17037611000001102,Olanzapine embonate 210mg powder and solvent for suspension for injection vials,Olanzapine embonate 210mg powder and solvent for suspension for injection vials,Powder and solvent for suspension for injection,Intramuscular,Olanzapine embonate monohydrate,210.000mg
+,,,,5575841000033117,17038211000001100,Olanzapine embonate 300mg powder and solvent for suspension for injection vials,Olanzapine embonate 300mg powder and solvent for suspension for injection vials,Powder and solvent for suspension for injection,Intramuscular,Olanzapine embonate monohydrate,300.000mg
+,,,,5889741000033118,13011611000001109,Quetiapine 12.5mg/5ml oral solution,Quetiapine 12.5mg/5ml oral solution,Oral solution,Oral,Quetiapine fumarate,2.500mg/1.000ml
+,,,,5889841000033111,13011711000001100,Quetiapine 12.5mg/5ml oral suspension,Quetiapine 12.5mg/5ml oral suspension,Oral suspension,Oral,Quetiapine fumarate,2.500mg/1.000ml
+,,,,5890741000033111,8528011000001103,Haloperidol 1mg/5ml oral suspension,Haloperidol 1mg/5ml oral suspension,Oral suspension,Oral,Haloperidol,200.000microgram/1.000ml
+,,,,5890941000033114,8277311000001106,Amisulpride 25mg/5ml oral suspension,Amisulpride 25mg/5ml oral suspension,Oral suspension,Oral,Amisulpride,5.000mg/1.000ml
+,,,,5891141000033117,14018611000001104,Quetiapine 100mg/5ml oral solution,Quetiapine 100mg/5ml oral solution,Oral solution,Oral,Quetiapine fumarate,20.000mg/1.000ml
+,,,,58941000033117,321638002,Amisulpride 200mg tablets,Amisulpride 200mg tablets,Tablet,Oral,Amisulpride,200.000mg
+,,,,59041000033114,321637007,Amisulpride 50mg tablets,Amisulpride 50mg tablets,Tablet,Oral,Amisulpride,50.000mg
+,,,,5909341000033112,17828611000001101,Quetiapine 150mg modified-release tablets,Quetiapine 150mg modified-release tablets,Modified-release tablet,Oral,Quetiapine fumarate,150.000mg
+,,,,5909441000033118,17689811000001108,Seroquel XL 150mg tablets (Luye Pharma Ltd),Seroquel XL 150mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,150.000mg
+,,,,593441000033111,843011000001101,Fluanxol 1mg tablets (Lundbeck Ltd),Fluanxol 1mg tablets,Tablet,Oral,Flupentixol dihydrochloride,1.000mg
+,,,,593541000033112,507511000001106,Fluanxol 500microgram tablets (Lundbeck Ltd),Fluanxol 500microgram tablets,Tablet,Oral,Flupentixol dihydrochloride,500.000microgram
+,,,,5969441000033117,12504911000001105,Haloperidol 1.5mg/5ml oral solution,Haloperidol 1.5mg/5ml oral solution,Oral solution,Oral,Haloperidol,300.000microgram/1.000ml
+,,,,5969541000033116,12505011000001105,Haloperidol 1.5mg/5ml oral suspension,Haloperidol 1.5mg/5ml oral suspension,Oral suspension,Oral,Haloperidol,300.000microgram/1.000ml
+,,,,5969641000033115,12505511000001102,Haloperidol 250micrograms/5ml oral solution,Haloperidol 250micrograms/5ml oral solution,Oral solution,Oral,Haloperidol,50.000microgram/1.000ml
+,,,,5969741000033112,12505611000001103,Haloperidol 250micrograms/5ml oral suspension,Haloperidol 250micrograms/5ml oral suspension,Oral suspension,Oral,Haloperidol,50.000microgram/1.000ml
+,,,,5974841000033112,13012211000001100,Quetiapine 25mg/5ml oral solution,Quetiapine 25mg/5ml oral solution,Oral solution,Oral,Quetiapine fumarate,5.000mg/1.000ml
+,,,,5974941000033116,13012311000001108,Quetiapine 25mg/5ml oral suspension,Quetiapine 25mg/5ml oral suspension,Oral suspension,Oral,Quetiapine fumarate,5.000mg/1.000ml
+,,,,5975041000033116,15452011000001103,Quetiapine 50mg/5ml oral solution,Quetiapine 50mg/5ml oral solution,Oral solution,Oral,Quetiapine fumarate,10.000mg/1.000ml
+,,,,5975141000033117,15452111000001102,Quetiapine 50mg/5ml oral suspension,Quetiapine 50mg/5ml oral suspension,Oral suspension,Oral,Quetiapine fumarate,10.000mg/1.000ml
+,,,,5993541000033117,12506011000001101,Haloperidol 5mg/5ml oral suspension,Haloperidol 5mg/5ml oral suspension,Oral suspension,Oral,Haloperidol,1.000mg/1.000ml
+,,,,6456741000033114,19588311000001109,Zalasta 10mg tablets (Consilient Health Ltd),Zalasta 10mg tablets,Tablet,Oral,Olanzapine,10.000mg
+,,,,6456841000033116,19588511000001103,Zalasta 15mg tablets (Consilient Health Ltd),Zalasta 15mg tablets,Tablet,Oral,Olanzapine,15.000mg
+,,,,6456941000033112,19587711000001107,Zalasta 2.5mg tablets (Consilient Health Ltd),Zalasta 2.5mg tablets,Tablet,Oral,Olanzapine,2.500mg
+,,,,6457041000033113,19588711000001108,Zalasta 20mg tablets (Consilient Health Ltd),Zalasta 20mg tablets,Tablet,Oral,Olanzapine,20.000mg
+,,,,6457141000033112,19587911000001109,Zalasta 5mg tablets (Consilient Health Ltd),Zalasta 5mg tablets,Tablet,Oral,Olanzapine,5.000mg
+,,,,6465341000033114,19609711000001105,Zalasta 10mg orodispersible tablets (Consilient Health Ltd),Zalasta 10mg orodispersible tablets,Orodispersible tablet,Oral,Olanzapine,10.000mg
+,,,,6465641000033118,19608211000001108,Zalasta 5mg orodispersible tablets (Consilient Health Ltd),Zalasta 5mg orodispersible tablets,Orodispersible tablet,Oral,Olanzapine,5.000mg
+,,,,6465941000033113,19609511000001100,Olanzapine 5mg orodispersible tablets sugar free,Olanzapine 5mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Olanzapine,5.000mg
+,,,,6466041000033115,19609111000001109,Olanzapine 10mg orodispersible tablets sugar free,Olanzapine 10mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Olanzapine,10.000mg
+,,,,6466141000033116,19609311000001106,Olanzapine 15mg orodispersible tablets sugar free,Olanzapine 15mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Olanzapine,15.000mg
+,,,,6466241000033111,19609411000001104,Olanzapine 20mg orodispersible tablets sugar free,Olanzapine 20mg orodispersible tablets sugar free,Orodispersible tablet,Oral,Olanzapine,20.000mg
+,,,,658341000033110,321448008,Haloperidol 500microgram capsules,Haloperidol 500microgram capsules,Capsule,Oral,Haloperidol,500.000microgram
+,,,,659441000033114,3748011000001101,Haldol decanoate 100mg/1ml solution for injection ampoules (Janssen-Cilag Ltd),Haldol Decanoate 100mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Haloperidol decanoate,100.000mg/1.000ml
+,,,,659541000033110,3747311000001104,Haldol decanoate 50mg/1ml solution for injection ampoules (Janssen-Cilag Ltd),Haldol Decanoate 50mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Haloperidol decanoate,50.000mg/1.000ml
+,,,,659641000033111,36053411000001105,Haloperidol 20mg/2ml solution for injection ampoules,Haloperidol 20mg/2ml solution for injection ampoules,Solution for injection,Intramuscular/ Intravenous,Haloperidol,10.000mg/1.000ml
+,,,,659741000033119,36053611000001108,Haloperidol decanoate 100mg/1ml solution for injection ampoules,Haloperidol decanoate 100mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Haloperidol decanoate,100.000mg/1.000ml
+,,,,659841000033112,36053711000001104,Haloperidol decanoate 50mg/1ml solution for injection ampoules,Haloperidol decanoate 50mg/1ml solution for injection ampoules,Solution for injection,Intramuscular,Haloperidol decanoate,50.000mg/1.000ml
+,,,,660341000033116,321450000,Haloperidol 5mg/5ml oral solution sugar free,Haloperidol 5mg/5ml oral solution sugar free,Oral solution,Oral,Haloperidol,1.000mg/1.000ml
+,,,,661341000033112,321420008,Haloperidol 10mg/5ml oral solution sugar free,Haloperidol 10mg/5ml oral solution sugar free,Oral solution,Oral,Haloperidol,2.000mg/1.000ml
+,,,,661541000033117,117911000001106,Haldol 2mg/ml oral solution (Janssen-Cilag Ltd),Haldol 2mg/ml oral solution,Oral solution,Oral,Haloperidol,2.000mg/1.000ml
+,,,,662341000033115,321416009,Haloperidol 1.5mg tablets,Haloperidol 1.5mg tablets,Tablet,Oral,Haloperidol,1.500mg
+,,,,662441000033114,321419002,Haloperidol 20mg tablets,Haloperidol 20mg tablets,Tablet,Oral,Haloperidol,20.000mg
+,,,,662541000033110,321417000,Haloperidol 5mg tablets,Haloperidol 5mg tablets,Tablet,Oral,Haloperidol,5.000mg
+,,,,663241000033118,321418005,Haloperidol 10mg tablets,Haloperidol 10mg tablets,Tablet,Oral,Haloperidol,10.000mg
+,,,,663341000033111,321451001,Haloperidol 500microgram tablets,Haloperidol 500microgram tablets,Tablet,Oral,Haloperidol,500.000microgram
+,,,,663441000033117,271211000001102,Haldol 10mg tablets (Janssen-Cilag Ltd),Haldol 10mg tablets,Tablet,Oral,Haloperidol,10.000mg
+,,,,663541000033116,152111000001103,Haldol 5mg tablets (Janssen-Cilag Ltd),Haldol 5mg tablets,Tablet,Oral,Haloperidol,5.000mg
+,,,,7681641000033116,19626711000001106,Olanzapine 10mg orodispersible tablets,Olanzapine 10mg orodispersible tablets,Orodispersible tablet,Oral,Olanzapine,10.000mg
+,,,,7681741000033113,19626811000001103,Olanzapine 15mg orodispersible tablets,Olanzapine 15mg orodispersible tablets,Orodispersible tablet,Oral,Olanzapine,15.000mg
+,,,,7681841000033115,19626911000001108,Olanzapine 20mg orodispersible tablets,Olanzapine 20mg orodispersible tablets,Orodispersible tablet,Oral,Olanzapine,20.000mg
+,,,,7681941000033111,19627011000001107,Olanzapine 5mg orodispersible tablets,Olanzapine 5mg orodispersible tablets,Orodispersible tablet,Oral,Olanzapine,5.000mg
+,,,,7687841000033114,20356011000001101,Sondate XL 50mg tablets (Teva UK Ltd),Sondate XL 50mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,50.000mg
+,,,,7687941000033118,20356211000001106,Sondate XL 200mg tablets (Teva UK Ltd),Sondate XL 200mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,200.000mg
+,,,,7688041000033115,20356411000001105,Sondate XL 300mg tablets (Teva UK Ltd),Sondate XL 300mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,300.000mg
+,,,,7688141000033116,20356611000001108,Sondate XL 400mg tablets (Teva UK Ltd),Sondate XL 400mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,400.000mg
+,,,,811041000033116,869511000001104,Largactil 50mg/2ml solution for injection ampoules (Sanofi),Largactil 50mg/2ml solution for injection ampoules,Solution for injection,Intramuscular,Chlorpromazine hydrochloride,25.000mg/1.000ml
+,,,,8112941000033114,21248811000001109,Tenprolide XL 50mg tablets (Actavis UK Ltd),Tenprolide XL 50mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,50.000mg
+,,,,8113041000033116,21249311000001106,Tenprolide XL 200mg tablets (Actavis UK Ltd),Tenprolide XL 200mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,200.000mg
+,,,,8113141000033117,21249511000001100,Tenprolide XL 300mg tablets (Actavis UK Ltd),Tenprolide XL 300mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,300.000mg
+,,,,813441000033114,2880511000001106,Largactil Forte 100mg/5ml oral suspension (Sanofi),Largactil Forte 100mg/5ml oral suspension,Oral suspension,Oral,Chlorpromazine embonate,20.000mg/1.000ml
+,,,,813741000033119,379911000001101,Largactil 25mg/5ml syrup (Sanofi),Largactil 25mg/5ml syrup,Oral solution,Oral,Chlorpromazine hydrochloride,5.000mg/1.000ml
+,,,,815741000033115,911311000001102,Largactil 10mg tablets (Sanofi),Largactil 10mg tablets,Tablet,Oral,Chlorpromazine hydrochloride,10.000mg
+,,,,815841000033113,432111000001100,Largactil 100mg tablets (Sanofi),Largactil 100mg tablets,Tablet,Oral,Chlorpromazine hydrochloride,100.000mg
+,,,,815941000033117,511000001103,Largactil 25mg tablets (Sanofi),Largactil 25mg tablets,Tablet,Oral,Chlorpromazine hydrochloride,25.000mg
+,,,,816041000033110,910611000001102,Largactil 50mg tablets (Sanofi),Largactil 50mg tablets,Tablet,Oral,Chlorpromazine hydrochloride,50.000mg
+,,,,8246241000033114,21714411000001103,Sondate XL 150mg tablets (Teva UK Ltd),Sondate XL 150mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,150.000mg
+,,,,8298341000033111,22221211000001102,Seotiapim XL 200mg tablets (Sandoz Ltd),Seotiapim XL 200mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,200.000mg
+,,,,8298441000033117,22221611000001100,Seotiapim XL 300mg tablets (Sandoz Ltd),Seotiapim XL 300mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,300.000mg
+,,,,8298541000033116,22221411000001103,Seotiapim XL 400mg tablets (Sandoz Ltd),Seotiapim XL 400mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,400.000mg
+,,,,8349141000033117,22409511000001108,Tenprolide XL 400mg tablets (Actavis UK Ltd),Tenprolide XL 400mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,400.000mg
+,,,,8540041000033111,9490711000001100,Psytixol 50mg/0.5ml solution for injection ampoules (Mylan),Psytixol 50mg/0.5ml solution for injection ampoules,Solution for injection,Intramuscular,Flupentixol decanoate,100.000mg/1.000ml
+,,,,8885941000033111,348374003,Chlorpromazine 25mg suppositories,Chlorpromazine 25mg suppositories,Suppository,Rectal,Chlorpromazine hydrochloride,25.000mg
+,,,,8960241000033117,23661211000001102,Aripiprazole 400mg powder and solvent for suspension for injection vials,Aripiprazole 400mg powder and solvent for suspension for injection vials,Powder and solvent for suspension for injection,Intramuscular,Aripiprazole,400.000mg
+,,,,8960441000033116,23636811000001103,Abilify Maintena 400mg powder and solvent for prolonged-release suspension for injection vials (Otsuka Pharmaceuticals (U.K.) Ltd),Abilify Maintena 400mg powder and solvent for prolonged-release suspension for injection vials,Powder and solvent for suspension for injection,Intramuscular,Aripiprazole,400.000mg
+,,,,9604441000033112,25803211000001100,Ebesque XL 50mg tablets (Ethypharm UK Ltd),Ebesque XL 50mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,50.000mg
+,,,,9605541000033112,25804311000001105,Ebesque XL 200mg tablets (Ethypharm UK Ltd),Ebesque XL 200mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,200.000mg
+,,,,9605941000033118,25804911000001106,Ebesque XL 300mg tablets (Ethypharm UK Ltd),Ebesque XL 300mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,300.000mg
+,,,,9606341000033113,25806011000001102,Ebesque XL 400mg tablets (Ethypharm UK Ltd),Ebesque XL 400mg tablets,Modified-release tablet,Oral,Quetiapine fumarate,400.000mg
+,,,,9776741000033114,13355211000001100,Topiramate 100mg/5ml oral solution,Topiramate 100mg/5ml oral solution,Oral solution,Oral,Topiramate,20.000mg/1.000ml

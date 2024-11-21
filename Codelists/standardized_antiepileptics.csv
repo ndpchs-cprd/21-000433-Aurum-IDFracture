@@ -1,0 +1,361 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,prodcodeid,dmdid,termfromemis,productname,formulation,routeofadministration,drugsubstancename,substancestrength
+,,,,11026841000033112,31534211000001108,Brivaracetam 50mg/5ml oral solution sugar free,Brivaracetam 50mg/5ml oral solution sugar free,Oral solution,Oral,Brivaracetam,10.000mg/1.000ml
+,,,,11027241000033111,31507311000001102,Briviact 10mg/ml oral solution (UCB Pharma Ltd),Briviact 10mg/ml oral solution,Oral solution,Oral,Brivaracetam,10.000mg/1.000ml
+,,,,11724841000033116,16102411000001104,Valproic acid 500mg/5ml oral suspension,Valproic acid 500mg/5ml oral suspension,Oral suspension,Oral,Valproate semisodium,100.000mg/1.000ml
+,,,,12602641000033112,12189011000001101,Phenobarbital 250mg/5ml oral suspension,Phenobarbital 250mg/5ml oral suspension,Oral suspension,Oral,Phenobarbital,50.000mg/1.000ml
+,,,,12603941000033111,35533511000001107,Genlev 100mg/ml oral solution (Genesis Pharmaceuticals Ltd),Genlev 100mg/ml oral solution,Oral solution,Oral,Levetiracetam,100.000mg/1.000ml
+,,,,13344341000033118,38019911000001101,Pregabalin 25mg tablets,Pregabalin 25mg tablets,Tablet,Oral,Pregabalin,25.000mg
+,,,,13344541000033113,38020111000001103,Pregabalin 50mg tablets,Pregabalin 50mg tablets,Tablet,Oral,Pregabalin,50.000mg
+,,,,13344641000033114,38020211000001109,Pregabalin 75mg tablets,Pregabalin 75mg tablets,Tablet,Oral,Pregabalin,75.000mg
+,,,,13344741000033117,38019511000001108,Pregabalin 100mg tablets,Pregabalin 100mg tablets,Tablet,Oral,Pregabalin,100.000mg
+,,,,13344841000033110,38019611000001107,Pregabalin 150mg tablets,Pregabalin 150mg tablets,Tablet,Oral,Pregabalin,150.000mg
+,,,,13344941000033119,38019711000001103,Pregabalin 200mg tablets,Pregabalin 200mg tablets,Tablet,Oral,Pregabalin,200.000mg
+,,,,13345041000033119,38019811000001106,Pregabalin 225mg tablets,Pregabalin 225mg tablets,Tablet,Oral,Pregabalin,225.000mg
+,,,,13345141000033115,38020011000001104,Pregabalin 300mg tablets,Pregabalin 300mg tablets,Tablet,Oral,Pregabalin,300.000mg
+,,,,13446741000033116,38286011000001103,Vigabatrin 100mg soluble tablets sugar free,Vigabatrin 100mg soluble tablets sugar free,Soluble tablet,Gastroenteral/ Oral,Vigabatrin,100.000mg
+,,,,13446841000033114,38286111000001102,Vigabatrin 500mg soluble tablets sugar free,Vigabatrin 500mg soluble tablets sugar free,Soluble tablet,Gastroenteral/ Oral,Vigabatrin,500.000mg
+,,,,13722241000033117,38998711000001100,Dyzantil 300mg modified-release tablets (Aspire Pharma Ltd),Dyzantil 300mg modified-release tablets,Modified-release tablet,Oral,Sodium valproate,300.000mg
+,,,,13764841000033115,12189611000001108,Phenobarbital 30mg/5ml oral suspension,Phenobarbital 30mg/5ml oral suspension,Oral suspension,Oral,Phenobarbital,6.000mg/1.000ml
+,,,,13765841000033116,12214111000001100,Phenobarbital 75mg/5ml oral suspension,Phenobarbital 75mg/5ml oral suspension,Oral suspension,Oral,Phenobarbital,15.000mg/1.000ml
+,,,,1500041000033112,323008001,Valproic acid 150mg gastro-resistant capsules,Valproic acid 150mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Valproic acid,150.000mg
+,,,,1500141000033111,323009009,Valproic acid 300mg gastro-resistant capsules,Valproic acid 300mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Valproic acid,300.000mg
+,,,,1500241000033116,323010004,Valproic acid 500mg gastro-resistant capsules,Valproic acid 500mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Valproic acid,500.000mg
+,,,,325841000033119,3920911000001105,Convulex 150mg gastro-resistant capsules (G.L. Pharma UK Ltd),Convulex 150mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Valproic acid,150.000mg
+,,,,325941000033110,3921311000001104,Convulex 300mg gastro-resistant capsules (G.L. Pharma UK Ltd),Convulex 300mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Valproic acid,300.000mg
+,,,,326041000033117,3921711000001100,Convulex 500mg gastro-resistant capsules (G.L. Pharma UK Ltd),Convulex 500mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Valproic acid,500.000mg
+,,,,4434841000033115,13115611000001103,Episenta 1g/10ml solution for injection ampoules (Beacon Pharmaceuticals Ltd),Episenta 1g/10ml solution for injection ampoules,Solution for injection,Intravenous,Sodium valproate,100.000mg/1.000ml
+,,,,5323841000033119,16178611000001107,Zebinix 800mg tablets (BIAL Pharma UK Ltd),Zebinix 800mg tablets,Tablet,Oral,Eslicarbazepine acetate,800.000mg
+,,,,5323941000033110,16197411000001103,Eslicarbazepine 800mg tablets,Eslicarbazepine 800mg tablets,Tablet,Oral,Eslicarbazepine acetate,800.000mg
+,,,,6013841000033113,15534611000001106,Pregabalin 75mg oral powder sachets,Pregabalin 75mg oral powder sachets,Powder,Route of administration not applicable,Pregabalin,75.000mg
+,,,,623641000033112,204111000001102,Gardenal Sodium 200mg/1ml solution for injection ampoules (Concord Pharmaceuticals Ltd),Gardenal Sodium 200mg/1ml solution for injection ampoules,Solution for injection,Subcutaneous/ Intravenous/ Intramuscular,Phenobarbital sodium,200.000mg/1.000ml
+,,,,6512241000033116,19870811000001108,Matever 500mg/5ml concentrate for solution for infusion vials (Aspire Pharma Ltd),Matever 500mg/5ml concentrate for solution for infusion vials,Solution for infusion,Intravenous,Levetiracetam,100.000mg/1.000ml
+,,,,6512341000033114,19867811000001103,Matever 1g tablets (Aspire Pharma Ltd),Matever 1g tablets,Tablet,Oral,Levetiracetam,1.000gram
+,,,,10205841000033114,28736711000001104,Rewisca 25mg capsules (Consilient Health Ltd),Rewisca 25mg capsules,Capsule,Oral,Pregabalin,25.000mg
+,,,,10205941000033118,28737611000001105,Rewisca 50mg capsules (Consilient Health Ltd),Rewisca 50mg capsules,Capsule,Oral,Pregabalin,50.000mg
+,,,,10206041000033111,28738211000001107,Rewisca 75mg capsules (Consilient Health Ltd),Rewisca 75mg capsules,Capsule,Oral,Pregabalin,75.000mg
+,,,,10206141000033110,28736211000001106,Rewisca 100mg capsules (Consilient Health Ltd),Rewisca 100mg capsules,Capsule,Oral,Pregabalin,100.000mg
+,,,,10206241000033115,28738711000001100,Rewisca 150mg capsules (Consilient Health Ltd),Rewisca 150mg capsules,Capsule,Oral,Pregabalin,150.000mg
+,,,,10206341000033113,28739111000001108,Rewisca 200mg capsules (Consilient Health Ltd),Rewisca 200mg capsules,Capsule,Oral,Pregabalin,200.000mg
+,,,,10206441000033119,28740211000001105,Rewisca 225mg capsules (Consilient Health Ltd),Rewisca 225mg capsules,Capsule,Oral,Pregabalin,225.000mg
+,,,,10206541000033118,28742111000001100,Rewisca 300mg capsules (Consilient Health Ltd),Rewisca 300mg capsules,Capsule,Oral,Pregabalin,300.000mg
+,,,,10220341000033117,28909711000001107,Lecaent 25mg capsules (Accord Healthcare Ltd),Lecaent 25mg capsules,Capsule,Oral,Pregabalin,25.000mg
+,,,,10220441000033111,28910011000001104,Lecaent 50mg capsules (Accord Healthcare Ltd),Lecaent 50mg capsules,Capsule,Oral,Pregabalin,50.000mg
+,,,,10220541000033112,28910211000001109,Lecaent 75mg capsules (Actavis UK Ltd),Lecaent 75mg capsules,Capsule,Oral,Pregabalin,75.000mg
+,,,,10220641000033113,28910411000001108,Lecaent 100mg capsules (Accord Healthcare Ltd),Lecaent 100mg capsules,Capsule,Oral,Pregabalin,100.000mg
+,,,,10220741000033116,28910611000001106,Lecaent 150mg capsules (Accord Healthcare Ltd),Lecaent 150mg capsules,Capsule,Oral,Pregabalin,150.000mg
+,,,,10220841000033114,28910811000001105,Lecaent 200mg capsules (Accord Healthcare Ltd),Lecaent 200mg capsules,Capsule,Oral,Pregabalin,200.000mg
+,,,,10220941000033118,28911011000001108,Lecaent 225mg capsules (Accord Healthcare Ltd),Lecaent 225mg capsules,Capsule,Oral,Pregabalin,225.000mg
+,,,,10221041000033111,28911211000001103,Lecaent 300mg capsules (Actavis UK Ltd),Lecaent 300mg capsules,Capsule,Oral,Pregabalin,300.000mg
+,,,,10229041000033112,28947311000001109,Levetiracetam 500mg/5ml solution for infusion ampoules,Levetiracetam 500mg/5ml solution for infusion ampoules,Solution for infusion,Intravenous,Levetiracetam,100.000mg/1.000ml
+,,,,10229241000033116,28645811000001109,Desitrend 500mg/5ml concentrate for solution for infusion ampoules (Desitin Pharma Ltd),Desitrend 500mg/5ml concentrate for solution for infusion ampoules,Solution for infusion,Intravenous,Levetiracetam,100.000mg/1.000ml
+,,,,10253941000033110,28996411000001106,Alzain 25mg capsules (Dr Reddy's Laboratories (UK) Ltd),Alzain 25mg capsules,Capsule,Oral,Pregabalin,25.000mg
+,,,,10254041000033112,28996611000001109,Alzain 50mg capsules (Dr Reddy's Laboratories (UK) Ltd),Alzain 50mg capsules,Capsule,Oral,Pregabalin,50.000mg
+,,,,10254141000033111,28996911000001103,Alzain 75mg capsules (Dr Reddy's Laboratories (UK) Ltd),Alzain 75mg capsules,Capsule,Oral,Pregabalin,75.000mg
+,,,,10254241000033116,28997111000001103,Alzain 100mg capsules (Dr Reddy's Laboratories (UK) Ltd),Alzain 100mg capsules,Capsule,Oral,Pregabalin,100.000mg
+,,,,10254341000033114,28997311000001101,Alzain 150mg capsules (Dr Reddy's Laboratories (UK) Ltd),Alzain 150mg capsules,Capsule,Oral,Pregabalin,150.000mg
+,,,,10254441000033115,28997511000001107,Alzain 200mg capsules (Dr Reddy's Laboratories (UK) Ltd),Alzain 200mg capsules,Capsule,Oral,Pregabalin,200.000mg
+,,,,10254541000033119,28997711000001102,Alzain 225mg capsules (Dr Reddy's Laboratories (UK) Ltd),Alzain 225mg capsules,Capsule,Oral,Pregabalin,225.000mg
+,,,,10254641000033118,28997911000001100,Alzain 300mg capsules (Dr Reddy's Laboratories (UK) Ltd),Alzain 300mg capsules,Capsule,Oral,Pregabalin,300.000mg
+,,,,1068641000033115,322942004,Phenytoin sodium 300mg capsules,Phenytoin sodium 300mg capsules,Capsule,Oral,Phenytoin sodium,300.000mg
+,,,,1068841000033119,39025611000001101,Phenytoin sodium 100mg capsules,Phenytoin sodium 100mg capsules,Capsule,Oral,Phenytoin sodium,100.000mg
+,,,,1068941000033110,322943009,Phenytoin sodium 25mg capsules,Phenytoin sodium 25mg capsules,Capsule,Oral,Phenytoin sodium,25.000mg
+,,,,1069041000033118,322944003,Phenytoin sodium 50mg capsules,Phenytoin sodium 50mg capsules,Capsule,Oral,Phenytoin sodium,50.000mg
+,,,,10702041000033117,35939311000001109,Phenobarbital 30mg/1ml solution for injection ampoules,Phenobarbital 30mg/1ml solution for injection ampoules,Solution for injection,Subcutaneous/ Intramuscular/ Intravenous,Phenobarbital sodium,30.000mg/1.000ml
+,,,,10702141000033118,35939411000001102,Phenobarbital 60mg/1ml solution for injection ampoules,Phenobarbital 60mg/1ml solution for injection ampoules,Solution for injection,Subcutaneous/ Intramuscular/ Intravenous,Phenobarbital sodium,60.000mg/1.000ml
+,,,,1074441000033118,36015611000001102,Phenytoin sodium 250mg/5ml solution for injection ampoules,Phenytoin sodium 250mg/5ml solution for injection ampoules,Solution for injection,Intravenous/ Intramuscular,Phenytoin sodium,50.000mg/1.000ml
+,,,,1074641000033116,322930009,Phenytoin 50mg chewable tablets,Phenytoin 50mg chewable tablets,Chewable tablet,Oral,Phenytoin,50.000mg
+,,,,1082141000033114,322934000,Phenytoin sodium 100mg tablets,Phenytoin sodium 100mg tablets,Tablet,Oral,Phenytoin sodium,100.000mg
+,,,,1082541000033117,322933006,Phenytoin sodium 50mg tablets,Phenytoin sodium 50mg tablets,Tablet,Oral,Phenytoin sodium,50.000mg
+,,,,11028241000033112,31533711000001103,Brivaracetam 100mg tablets,Brivaracetam 100mg tablets,Tablet,Oral,Brivaracetam,100.000mg
+,,,,11028441000033113,31533811000001106,Brivaracetam 10mg tablets,Brivaracetam 10mg tablets,Tablet,Oral,Brivaracetam,10.000mg
+,,,,11028541000033114,31534011000001103,Brivaracetam 25mg tablets,Brivaracetam 25mg tablets,Tablet,Oral,Brivaracetam,25.000mg
+,,,,11028641000033110,31534111000001102,Brivaracetam 50mg tablets,Brivaracetam 50mg tablets,Tablet,Oral,Brivaracetam,50.000mg
+,,,,11028741000033118,31534511000001106,Brivaracetam 75mg tablets,Brivaracetam 75mg tablets,Tablet,Oral,Brivaracetam,75.000mg
+,,,,11028841000033111,31502611000001109,Briviact 100mg tablets (UCB Pharma Ltd),Briviact 100mg tablets,Tablet,Oral,Brivaracetam,100.000mg
+,,,,11028941000033115,31499611000001107,Briviact 10mg tablets (UCB Pharma Ltd),Briviact 10mg tablets,Tablet,Oral,Brivaracetam,10.000mg
+,,,,11029041000033112,31500511000001109,Briviact 25mg tablets (UCB Pharma Ltd),Briviact 25mg tablets,Tablet,Oral,Brivaracetam,25.000mg
+,,,,11029141000033111,31501311000001108,Briviact 50mg tablets (UCB Pharma Ltd),Briviact 50mg tablets,Tablet,Oral,Brivaracetam,50.000mg
+,,,,11029241000033116,31502211000001107,Briviact 75mg tablets (UCB Pharma Ltd),Briviact 75mg tablets,Tablet,Oral,Brivaracetam,75.000mg
+,,,,1129241000033113,371194003,Primidone 250mg/5ml oral suspension,Primidone 250mg/5ml oral suspension,Oral suspension,Oral,Primidone,50.000mg/1.000ml
+,,,,1139341000033117,322948000,Primidone 250mg tablets,Primidone 250mg tablets,Tablet,Oral,Primidone,250.000mg
+,,,,11717841000033118,55611000001105,Phenytoin sodium 100mg tablets (Teva UK Ltd),Phenytoin sodium 100mg tablets,Tablet,Oral,Phenytoin sodium,100.000mg
+,,,,11821741000033110,33709111000001104,Axalid 25mg capsules (Kent Pharma (UK) Ltd),Axalid 25mg capsules,Capsule,Oral,Pregabalin,25.000mg
+,,,,11821841000033117,33709711000001103,Axalid 50mg capsules (Kent Pharma (UK) Ltd),Axalid 50mg capsules,Capsule,Oral,Pregabalin,50.000mg
+,,,,11821941000033113,33710311000001109,Axalid 75mg capsules (Kent Pharma (UK) Ltd),Axalid 75mg capsules,Capsule,Oral,Pregabalin,75.000mg
+,,,,11822041000033119,33710511000001103,Axalid 100mg capsules (Kent Pharma (UK) Ltd),Axalid 100mg capsules,Capsule,Oral,Pregabalin,100.000mg
+,,,,11822141000033115,33712111000001106,Axalid 150mg capsules (Kent Pharma (UK) Ltd),Axalid 150mg capsules,Capsule,Oral,Pregabalin,150.000mg
+,,,,11822241000033110,33712511000001102,Axalid 200mg capsules (Kent Pharma (UK) Ltd),Axalid 200mg capsules,Capsule,Oral,Pregabalin,200.000mg
+,,,,11822341000033117,33715511000001108,Axalid 225mg capsules (Kent Pharma (UK) Ltd),Axalid 225mg capsules,Capsule,Oral,Pregabalin,225.000mg
+,,,,11822441000033111,33715911000001101,Axalid 300mg capsules (Kent Pharma (UK) Ltd),Axalid 300mg capsules,Capsule,Oral,Pregabalin,300.000mg
+,,,,1252741000033112,3711611000001107,Sabril 500mg oral powder sachets (Sanofi),Sabril 500mg oral powder sachets,Powder,Oral,Vigabatrin,500.000mg
+,,,,12578741000033117,35596611000001107,Depakin 200mg/ml oral solution (Imported (Italy)),Depakin 200mg/ml oral solution,Oral solution,,Sodium valproate,200.000mg/1.000ml
+,,,,1258841000033116,184311000001104,Sabril 500mg tablets (Sanofi),Sabril 500mg tablets,Tablet,Oral,Vigabatrin,500.000mg
+,,,,12684541000033116,36107311000001106,Ethosuximide 250mg/5ml oral solution sugar free,Ethosuximide 250mg/5ml oral solution sugar free,Oral solution,Oral,Ethosuximide,50.000mg/1.000ml
+,,,,12910641000033110,36753211000001109,Topiramate 50mg/5ml oral suspension sugar free,Topiramate 50mg/5ml oral suspension sugar free,Oral suspension,Oral,Topiramate,10.000mg/1.000ml
+,,,,12910741000033118,36753111000001103,Topiramate 100mg/5ml oral suspension sugar free,Topiramate 100mg/5ml oral suspension sugar free,Oral suspension,Oral,Topiramate,20.000mg/1.000ml
+,,,,13091441000033117,37322611000001104,Dilantin Infatabs 50mg chewable tablets (Imported (Canada)),Dilantin Infatabs 50mg chewable tablets,Chewable tablet,,Phenytoin,50.000mg
+,,,,13149541000033117,37573711000001104,Belvo 250mg gastro-resistant tablets (Consilient Health Ltd),Belvo 250mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Valproate semisodium,250.000mg
+,,,,13149641000033116,37574111000001103,Belvo 500mg gastro-resistant tablets (Consilient Health Ltd),Belvo 500mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Valproate semisodium,500.000mg
+,,,,13348941000033113,37982411000001102,Syonell 250mg gastro-resistant tablets (Lupin Healthcare (UK) Ltd),Syonell 250mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Valproate semisodium,250.000mg
+,,,,13349541000033114,37982211000001101,Syonell 500mg gastro-resistant tablets (Lupin Healthcare (UK) Ltd),Syonell 500mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Valproate semisodium,500.000mg
+,,,,13352641000033119,12299411000001108,Phenobarbital 100mg tablets,Phenobarbital 100mg tablets,Tablet,Oral,Phenobarbital,100.000mg
+,,,,1358241000033111,35928511000001107,Sodium valproate 400mg powder and solvent for solution for injection vials,Sodium valproate 400mg powder and solvent for solution for injection vials,Powder and solvent for solution for injection,Intravenous,Sodium valproate,400.000mg
+,,,,1359341000033113,39108211000001105,Sodium valproate 200mg modified-release tablets,Sodium valproate 200mg modified-release tablets,Modified-release tablet,Oral,Sodium valproate,200.000mg
+,,,,1359441000033119,39108311000001102,Sodium valproate 300mg modified-release tablets,Sodium valproate 300mg modified-release tablets,Modified-release tablet,Oral,Sodium valproate,300.000mg
+,,,,1359541000033118,39108411000001109,Sodium valproate 500mg modified-release tablets,Sodium valproate 500mg modified-release tablets,Modified-release tablet,Oral,Sodium valproate,500.000mg
+,,,,1361241000033114,35928211000001109,Sodium valproate 200mg/5ml oral solution,Sodium valproate 200mg/5ml oral solution,Oral solution,Oral,Sodium valproate,40.000mg/1.000ml
+,,,,1363641000033113,35928311000001101,Sodium valproate 200mg/5ml oral solution sugar free,Sodium valproate 200mg/5ml oral solution sugar free,Oral solution,Oral,Sodium valproate,40.000mg/1.000ml
+,,,,1364941000033115,39107811000001107,Sodium valproate 100mg tablets,Sodium valproate 100mg tablets,Tablet,Oral,Sodium valproate,100.000mg
+,,,,1365041000033115,322956002,Sodium valproate 200mg gastro-resistant tablets,Sodium valproate 200mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Sodium valproate,200.000mg
+,,,,1365141000033116,322957006,Sodium valproate 500mg gastro-resistant tablets,Sodium valproate 500mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Sodium valproate,500.000mg
+,,,,13722141000033112,38998111000001101,Dyzantil 200mg modified-release tablets (Aspire Pharma Ltd),Dyzantil 200mg modified-release tablets,Modified-release tablet,Oral,Sodium valproate,200.000mg
+,,,,13722341000033110,38999111000001108,Dyzantil 500mg modified-release tablets (Aspire Pharma Ltd),Dyzantil 500mg modified-release tablets,Modified-release tablet,Oral,Sodium valproate,500.000mg
+,,,,13752941000033110,24595411000001108,Zonisamide 100mg/5ml oral suspension,Zonisamide 100mg/5ml oral suspension,Oral suspension,Oral,Zonisamide,20.000mg/1.000ml
+,,,,13753041000033117,39205511000001103,Desizon 20mg/ml oral suspension (Desitin Pharma Ltd),Desizon 20mg/ml oral suspension,Oral suspension,Oral,Zonisamide,20.000mg/1.000ml
+,,,,13765041000033111,23595311000001103,Phenytoin sodium 100mg capsules (Accord Healthcare Ltd),Phenytoin sodium 100mg capsules,Capsule,Oral,Phenytoin sodium,100.000mg
+,,,,1415041000033114,3160011000001104,Tegretol 100mg Chewtabs (Novartis Pharmaceuticals UK Ltd),Tegretol 100mg Chewtabs,Chewable tablet,Oral,Carbamazepine,100.000mg
+,,,,1415141000033113,3160911000001100,Tegretol 200mg Chewtabs (Novartis Pharmaceuticals UK Ltd),Tegretol 200mg Chewtabs,Chewable tablet,Oral,Carbamazepine,200.000mg
+,,,,1423941000033119,3923811000001107,Tegretol 125mg suppositories (Essential Pharma Ltd),Tegretol 125mg suppositories,Suppository,Rectal,Carbamazepine,125.000mg
+,,,,1424041000033117,3924111000001103,Tegretol 250mg suppositories (Essential Pharma Ltd),Tegretol 250mg suppositories,Suppository,Rectal,Carbamazepine,250.000mg
+,,,,1424241000033113,760111000001100,Tegretol 100mg/5ml liquid (Novartis Pharmaceuticals UK Ltd),Tegretol 100mg/5ml liquid,Oral suspension,Oral,Carbamazepine,20.000mg/1.000ml
+,,,,1425841000033111,680511000001100,Tegretol 100mg tablets (Novartis Pharmaceuticals UK Ltd),Tegretol 100mg tablets,Tablet,Oral,Carbamazepine,100.000mg
+,,,,1425941000033115,443711000001108,Tegretol 200mg tablets (Novartis Pharmaceuticals UK Ltd),Tegretol 200mg tablets,Tablet,Oral,Carbamazepine,200.000mg
+,,,,1426041000033113,702711000001104,Tegretol 400mg tablets (Novartis Pharmaceuticals UK Ltd),Tegretol 400mg tablets,Tablet,Oral,Carbamazepine,400.000mg
+,,,,1428841000033119,261911000001101,Tegretol Prolonged Release 200mg tablets (Novartis Pharmaceuticals UK Ltd),Tegretol Prolonged Release 200mg tablets,Modified-release tablet,Oral,Carbamazepine,200.000mg
+,,,,1428941000033110,662611000001103,Tegretol Prolonged Release 400mg tablets (Novartis Pharmaceuticals UK Ltd),Tegretol Prolonged Release 400mg tablets,Modified-release tablet,Oral,Carbamazepine,400.000mg
+,,,,1450441000033115,823811000001105,Topamax 100mg tablets (Janssen-Cilag Ltd),Topamax 100mg tablets,Tablet,Oral,Topiramate,100.000mg
+,,,,1450541000033119,235111000001108,Topamax 200mg tablets (Janssen-Cilag Ltd),Topamax 200mg tablets,Tablet,Oral,Topiramate,200.000mg
+,,,,1450641000033118,138611000001109,Topamax 50mg tablets (Janssen-Cilag Ltd),Topamax 50mg tablets,Tablet,Oral,Topiramate,50.000mg
+,,,,1451441000033112,290011000001107,Topamax 25mg tablets (Janssen-Cilag Ltd),Topamax 25mg tablets,Tablet,Oral,Topiramate,25.000mg
+,,,,1451541000033113,323024000,Topiramate 100mg tablets,Topiramate 100mg tablets,Tablet,Oral,Topiramate,100.000mg
+,,,,1451641000033114,323025004,Topiramate 200mg tablets,Topiramate 200mg tablets,Tablet,Oral,Topiramate,200.000mg
+,,,,1451741000033117,323029005,Topiramate 25mg tablets,Topiramate 25mg tablets,Tablet,Oral,Topiramate,25.000mg
+,,,,1451841000033110,323023006,Topiramate 50mg tablets,Topiramate 50mg tablets,Tablet,Oral,Topiramate,50.000mg
+,,,,1521941000033110,322979001,Vigabatrin 500mg oral powder sachets sugar free,Vigabatrin 500mg oral powder sachets sugar free,Powder,Oral,Vigabatrin,500.000mg
+,,,,1522741000033118,322977004,Vigabatrin 500mg tablets,Vigabatrin 500mg tablets,Tablet,Oral,Vigabatrin,500.000mg
+,,,,1548241000033112,767111000001104,Zarontin 250mg capsules (Pfizer Ltd),Zarontin 250mg capsules,Capsule,Oral,Ethosuximide,250.000mg
+,,,,1550041000033116,782711000001103,Zarontin 250mg/5ml syrup (Essential Pharma Ltd),Zarontin 250mg/5ml syrup,Oral solution,Oral,Ethosuximide,50.000mg/1.000ml
+,,,,1729541000033118,260011000001109,Epimaz 100mg tablets (IVAX Pharmaceuticals UK Ltd),Epimaz 100mg tablets,Tablet,Oral,Carbamazepine,100.000mg
+,,,,1729641000033117,296811000001104,Epimaz 200mg tablets (Teva UK Ltd),Epimaz 200mg tablets,Tablet,Oral,Carbamazepine,200.000mg
+,,,,1729741000033114,760511000001109,Epimaz 400mg tablets (Teva UK Ltd),Epimaz 400mg tablets,Tablet,Oral,Carbamazepine,400.000mg
+,,,,1747541000033114,872211000001104,Orlept SF 200mg/5ml liquid (Wockhardt UK Ltd),Orlept SF 200mg/5ml liquid,Oral solution,Oral,Sodium valproate,40.000mg/1.000ml
+,,,,1747641000033110,504711000001108,Orlept 200mg gastro-resistant tablets (Wockhardt UK Ltd),Orlept 200mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Sodium valproate,200.000mg
+,,,,1747741000033118,220011000001104,Orlept 500mg gastro-resistant tablets (Wockhardt UK Ltd),Orlept 500mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Sodium valproate,500.000mg
+,,,,1767341000033110,36061111000001107,Fosphenytoin 750mg/10ml solution for injection vials,Fosphenytoin 750mg/10ml solution for injection vials,Solution for injection,Intravenous/ Intramuscular,Fosphenytoin sodium,75.000mg/1.000ml
+,,,,1767441000033116,4390811000001104,Pro-Epanutin 750mg/10ml concentrate for solution for injection vials (Pfizer Ltd),Pro-Epanutin 750mg/10ml concentrate for solution for injection vials,Solution for injection,Intravenous/ Intramuscular,Fosphenytoin sodium,75.000mg/1.000ml
+,,,,178741000033110,322890005,Carbamazepine 100mg chewable tablets sugar free,Carbamazepine 100mg chewable tablets sugar free,Chewable tablet,Oral,Carbamazepine,100.000mg
+,,,,178841000033117,322889001,Carbamazepine 200mg chewable tablets sugar free,Carbamazepine 200mg chewable tablets sugar free,Chewable tablet,Oral,Carbamazepine,200.000mg
+,,,,1847941000033118,4205011000001105,Topamax 15mg sprinkle capsules (Janssen-Cilag Ltd),Topamax 15mg sprinkle capsules,Capsule,Oral,Topiramate,15.000mg
+,,,,1848041000033115,4206011000001101,Topamax 25mg sprinkle capsules (Janssen-Cilag Ltd),Topamax 25mg sprinkle capsules,Capsule,Oral,Topiramate,25.000mg
+,,,,1870841000033112,322931008,Phenytoin 30mg/5ml oral suspension,Phenytoin 30mg/5ml oral suspension,Oral suspension,Oral,Phenytoin,6.000mg/1.000ml
+,,,,198141000033115,322891009,Carbamazepine 100mg/5ml oral suspension sugar free,Carbamazepine 100mg/5ml oral suspension sugar free,Oral suspension,Oral,Carbamazepine,20.000mg/1.000ml
+,,,,2033041000033110,323046008,Oxcarbazepine 150mg tablets,Oxcarbazepine 150mg tablets,Tablet,Oral,Oxcarbazepine,150.000mg
+,,,,2033141000033114,323047004,Oxcarbazepine 300mg tablets,Oxcarbazepine 300mg tablets,Tablet,Oral,Oxcarbazepine,300.000mg
+,,,,2033241000033119,323048009,Oxcarbazepine 600mg tablets,Oxcarbazepine 600mg tablets,Tablet,Oral,Oxcarbazepine,600.000mg
+,,,,2033341000033112,3839911000001106,Trileptal 150mg tablets (Novartis Pharmaceuticals UK Ltd),Trileptal 150mg tablets,Tablet,Oral,Oxcarbazepine,150.000mg
+,,,,2033441000033118,3672511000001102,Trileptal 300mg tablets (Novartis Pharmaceuticals UK Ltd),Trileptal 300mg tablets,Tablet,Oral,Oxcarbazepine,300.000mg
+,,,,2033541000033117,3784111000001104,Trileptal 600mg tablets (Novartis Pharmaceuticals UK Ltd),Trileptal 600mg tablets,Tablet,Oral,Oxcarbazepine,600.000mg
+,,,,207541000033111,322887004,Carbamazepine 125mg suppositories,Carbamazepine 125mg suppositories,Suppository,Rectal,Carbamazepine,125.000mg
+,,,,207641000033112,322888009,Carbamazepine 250mg suppositories,Carbamazepine 250mg suppositories,Suppository,Rectal,Carbamazepine,250.000mg
+,,,,212541000033112,322863001,Carbamazepine 100mg tablets,Carbamazepine 100mg tablets,Tablet,Oral,Carbamazepine,100.000mg
+,,,,212641000033113,322864007,Carbamazepine 200mg tablets,Carbamazepine 200mg tablets,Tablet,Oral,Carbamazepine,200.000mg
+,,,,212741000033116,322865008,Carbamazepine 400mg tablets,Carbamazepine 400mg tablets,Tablet,Oral,Carbamazepine,400.000mg
+,,,,2145941000033118,323021008,Gabapentin 600mg tablets,Gabapentin 600mg tablets,Tablet,Oral,Gabapentin,600.000mg
+,,,,2146041000033111,323022001,Gabapentin 800mg tablets,Gabapentin 800mg tablets,Tablet,Oral,Gabapentin,800.000mg
+,,,,2146141000033110,511611000001103,Neurontin 600mg tablets (Upjohn UK Ltd),Neurontin 600mg tablets,Tablet,Oral,Gabapentin,600.000mg
+,,,,2146241000033115,159611000001104,Neurontin 800mg tablets (Upjohn UK Ltd),Neurontin 800mg tablets,Tablet,Oral,Gabapentin,800.000mg
+,,,,2212941000033119,323055006,Levetiracetam 250mg tablets,Levetiracetam 250mg tablets,Tablet,Oral,Levetiracetam,250.000mg
+,,,,2213041000033112,323054005,Levetiracetam 500mg tablets,Levetiracetam 500mg tablets,Tablet,Oral,Levetiracetam,500.000mg
+,,,,2213141000033111,323053004,Levetiracetam 1g tablets,Levetiracetam 1g tablets,Tablet,Oral,Levetiracetam,1.000gram
+,,,,2213241000033116,929411000001104,Keppra 250mg tablets (UCB Pharma Ltd),Keppra 250mg tablets,Tablet,Oral,Levetiracetam,250.000mg
+,,,,2213341000033114,839211000001109,Keppra 500mg tablets (UCB Pharma Ltd),Keppra 500mg tablets,Tablet,Oral,Levetiracetam,500.000mg
+,,,,2213441000033115,3637411000001100,Keppra 1g tablets (UCB Pharma Ltd),Keppra 1g tablets,Tablet,Oral,Levetiracetam,1.000gram
+,,,,2217641000033111,4206411000001105,Topamax 50mg sprinkle capsules (Janssen-Cilag Ltd),Topamax 50mg sprinkle capsules,Capsule,Oral,Topiramate,50.000mg
+,,,,2266041000033115,37082411000001106,Carbamazepine 200mg modified-release tablets,Carbamazepine 200mg modified-release tablets,Modified-release tablet,Oral,Carbamazepine,200.000mg
+,,,,2266141000033116,37082511000001105,Carbamazepine 400mg modified-release tablets,Carbamazepine 400mg modified-release tablets,Modified-release tablet,Oral,Carbamazepine,400.000mg
+,,,,2271441000033112,3846411000001106,Depakote 250mg gastro-resistant tablets (Sanofi),Depakote 250mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Valproate semisodium,250.000mg
+,,,,2271541000033113,3847111000001103,Depakote 500mg gastro-resistant tablets (Sanofi),Depakote 500mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Valproate semisodium,500.000mg
+,,,,2584441000033110,36037711000001108,Lamotrigine 2mg dispersible tablets sugar free,Lamotrigine 2mg dispersible tablets sugar free,Dispersible tablet,Oral,Lamotrigine,2.000mg
+,,,,2584541000033111,4021611000001103,Lamictal 2mg dispersible tablets (GlaxoSmithKline UK Ltd),Lamictal 2mg dispersible tablets,Dispersible tablet,Oral,Lamotrigine,2.000mg
+,,,,2668041000033116,12311000001104,Teril Retard 200mg tablets (Taro Pharmaceuticals (UK) Ltd),Teril Retard 200mg tablets,Modified-release tablet,Oral,Carbamazepine,200.000mg
+,,,,2668141000033117,658111000001104,Teril Retard 400mg tablets (Taro Pharmaceuticals (UK) Ltd),Teril Retard 400mg tablets,Modified-release tablet,Oral,Carbamazepine,400.000mg
+,,,,2711241000033110,134538003,Valproic acid 250mg gastro-resistant tablets,Valproic acid 250mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Valproate semisodium,250.000mg
+,,,,2711341000033117,134537008,Valproic acid 500mg gastro-resistant tablets,Valproic acid 500mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Valproate semisodium,500.000mg
+,,,,2730441000033114,789211000001102,Arbil MR 200mg tablets (Ranbaxy (UK) Ltd),Arbil MR 200mg tablets,Modified-release tablet,Oral,Carbamazepine,200.000mg
+,,,,2730541000033110,210911000001107,Arbil MR 400mg tablets (Ranbaxy (UK) Ltd),Arbil MR 400mg tablets,Modified-release tablet,Oral,Carbamazepine,400.000mg
+,,,,2758641000033114,8818211000001102,Primidone 50mg/5ml oral suspension,Primidone 50mg/5ml oral suspension,Oral suspension,Oral,Primidone,10.000mg/1.000ml
+,,,,2796241000033118,409467001,Gabapentin 250mg/5ml oral solution,Gabapentin 250mg/5ml oral solution,Oral solution,Oral,Gabapentin,50.000mg/1.000ml
+,,,,2796341000033111,21059411000001106,Neurontin 250mg/5ml oral solution (Imported (United States)),Neurontin 250mg/5ml oral solution,Oral solution,,Gabapentin,50.000mg/1.000ml
+,,,,2799141000033115,4766111000001107,Epival CR 500mg tablets (Healthcare Pharma Ltd),Epival CR 500mg tablets,Modified-release tablet,Oral,Sodium valproate,500.000mg
+,,,,2799241000033110,4765911000001103,Epival CR 300mg tablets (Healthcare Pharma Ltd),Epival CR 300mg tablets,Modified-release tablet,Oral,Sodium valproate,300.000mg
+,,,,2839041000033113,38752611000001105,Oxcarbazepine 60mg/ml oral suspension sugar free,Oxcarbazepine 60mg/ml oral suspension sugar free,Oral suspension,Oral,Oxcarbazepine,60.000mg/1.000ml
+,,,,2839141000033112,7315411000001103,Trileptal 60mg/ml oral suspension (Novartis Pharmaceuticals UK Ltd),Trileptal 60mg/ml oral suspension,Oral suspension,Oral,Oxcarbazepine,60.000mg/1.000ml
+,,,,2928641000033118,352911000001109,Epimaz Retard 200mg tablets (IVAX Pharmaceuticals UK Ltd),Epimaz Retard 200mg tablets,Modified-release tablet,Oral,Carbamazepine,200.000mg
+,,,,2928741000033110,643611000001102,Epimaz Retard 400mg tablets (IVAX Pharmaceuticals UK Ltd),Epimaz Retard 400mg tablets,Modified-release tablet,Oral,Carbamazepine,400.000mg
+,,,,2929341000033119,369911000001109,Carbagen SR 200mg tablets (Mylan),Carbagen SR 200mg tablets,Modified-release tablet,Oral,Carbamazepine,200.000mg
+,,,,2929441000033113,640811000001105,Carbagen SR 400mg tablets (Mylan),Carbagen SR 400mg tablets,Modified-release tablet,Oral,Carbamazepine,400.000mg
+,,,,2973141000033118,8723911000001108,Topiramate 25mg/5ml oral suspension,Topiramate 25mg/5ml oral suspension,Oral suspension,Oral,Topiramate,5.000mg/1.000ml
+,,,,3076141000033111,8723811000001103,Topiramate 50mg/5ml oral suspension,Topiramate 50mg/5ml oral suspension,Oral suspension,Oral,Topiramate,10.000mg/1.000ml
+,,,,3102641000033118,322927002,Phenobarbital 15mg/5ml elixir,Phenobarbital 15mg/5ml elixir,Oral solution,Oral,Phenobarbital,3.000mg/1.000ml
+,,,,3102741000033110,35939211000001101,Phenobarbital 200mg/1ml solution for injection ampoules,Phenobarbital 200mg/1ml solution for injection ampoules,Solution for injection,Intravenous/ Subcutaneous/ Intramuscular,Phenobarbital sodium,200.000mg/1.000ml
+,,,,3103141000033116,322915000,Phenobarbital 15mg tablets,Phenobarbital 15mg tablets,Tablet,Oral,Phenobarbital,15.000mg
+,,,,3103241000033111,322916004,Phenobarbital 30mg tablets,Phenobarbital 30mg tablets,Tablet,Oral,Phenobarbital,30.000mg
+,,,,3103341000033118,322917008,Phenobarbital 60mg tablets,Phenobarbital 60mg tablets,Tablet,Oral,Phenobarbital,60.000mg
+,,,,3152941000033118,8818511000001104,Sodium valproate 300mg suppositories,Sodium valproate 300mg suppositories,Suppository,Rectal,Sodium valproate,300.000mg
+,,,,3153041000033111,19964511000001101,Sodium valproate 100mg suppositories,Sodium valproate 100mg suppositories,Suppository,Rectal,Sodium valproate,100.000mg
+,,,,3153341000033113,415164004,Pregabalin 25mg capsules,Pregabalin 25mg capsules,Capsule,Oral,Pregabalin,25.000mg
+,,,,3153441000033119,415166002,Pregabalin 50mg capsules,Pregabalin 50mg capsules,Capsule,Oral,Pregabalin,50.000mg
+,,,,3153541000033118,415167006,Pregabalin 75mg capsules,Pregabalin 75mg capsules,Capsule,Oral,Pregabalin,75.000mg
+,,,,3153641000033117,415161007,Pregabalin 100mg capsules,Pregabalin 100mg capsules,Capsule,Oral,Pregabalin,100.000mg
+,,,,3153741000033114,415162000,Pregabalin 150mg capsules,Pregabalin 150mg capsules,Capsule,Oral,Pregabalin,150.000mg
+,,,,3153841000033116,415163005,Pregabalin 200mg capsules,Pregabalin 200mg capsules,Capsule,Oral,Pregabalin,200.000mg
+,,,,3153941000033112,415165003,Pregabalin 300mg capsules,Pregabalin 300mg capsules,Capsule,Oral,Pregabalin,300.000mg
+,,,,3154041000033114,7889411000001104,Lyrica 25mg capsules (Upjohn UK Ltd),Lyrica 25mg capsules,Capsule,Oral,Pregabalin,25.000mg
+,,,,3154141000033113,7890211000001109,Lyrica 50mg capsules (Upjohn UK Ltd),Lyrica 50mg capsules,Capsule,Oral,Pregabalin,50.000mg
+,,,,3154241000033118,7890511000001107,Lyrica 75mg capsules (Upjohn UK Ltd),Lyrica 75mg capsules,Capsule,Oral,Pregabalin,75.000mg
+,,,,3154341000033111,7890811000001105,Lyrica 100mg capsules (Upjohn UK Ltd),Lyrica 100mg capsules,Capsule,Oral,Pregabalin,100.000mg
+,,,,3154441000033117,7891211000001103,Lyrica 150mg capsules (Upjohn UK Ltd),Lyrica 150mg capsules,Capsule,Oral,Pregabalin,150.000mg
+,,,,3154541000033116,7891611000001101,Lyrica 200mg capsules (Upjohn UK Ltd),Lyrica 200mg capsules,Capsule,Oral,Pregabalin,200.000mg
+,,,,3154641000033115,7892111000001104,Lyrica 300mg capsules (Upjohn UK Ltd),Lyrica 300mg capsules,Capsule,Oral,Pregabalin,300.000mg
+,,,,3189041000033117,35919911000001103,Topiramate 15mg capsules,Topiramate 15mg capsules,Capsule,Oral,Topiramate,15.000mg
+,,,,3189141000033118,35920011000001101,Topiramate 25mg capsules,Topiramate 25mg capsules,Capsule,Oral,Topiramate,25.000mg
+,,,,3189241000033113,35920111000001100,Topiramate 50mg capsules,Topiramate 50mg capsules,Capsule,Oral,Topiramate,50.000mg
+,,,,3200941000033110,375396003,Levetiracetam 750mg tablets,Levetiracetam 750mg tablets,Tablet,Oral,Levetiracetam,750.000mg
+,,,,3201041000033117,8285511000001102,Levetiracetam 100mg/ml oral solution sugar free,Levetiracetam 100mg/ml oral solution sugar free,Oral solution,Oral,Levetiracetam,100.000mg/1.000ml
+,,,,3201141000033118,8171111000001104,Keppra 750mg tablets (UCB Pharma Ltd),Keppra 750mg tablets,Tablet,Oral,Levetiracetam,750.000mg
+,,,,3201241000033113,8176611000001100,Keppra 100mg/ml oral solution (UCB Pharma Ltd),Keppra 100mg/ml oral solution,Oral solution,Oral,Levetiracetam,100.000mg/1.000ml
+,,,,3291841000033110,417050003,Zonisamide 25mg capsules,Zonisamide 25mg capsules,Capsule,Oral,Zonisamide,25.000mg
+,,,,3291941000033119,417678003,Zonisamide 50mg capsules,Zonisamide 50mg capsules,Capsule,Oral,Zonisamide,50.000mg
+,,,,3292041000033113,410930002,Zonisamide 100mg capsules,Zonisamide 100mg capsules,Capsule,Oral,Zonisamide,100.000mg
+,,,,3292141000033112,9303511000001105,Zonegran 25mg capsules (Eisai Ltd),Zonegran 25mg capsules,Capsule,Oral,Zonisamide,25.000mg
+,,,,3292241000033117,9303911000001103,Zonegran 50mg capsules (Eisai Ltd),Zonegran 50mg capsules,Capsule,Oral,Zonisamide,50.000mg
+,,,,3292341000033110,9304111000001104,Zonegran 100mg capsules (Eisai Ltd),Zonegran 100mg capsules,Capsule,Oral,Zonisamide,100.000mg
+,,,,3923941000033110,19977911000001108,Sodium valproate 500mg/5ml oral suspension,Sodium valproate 500mg/5ml oral suspension,Oral suspension,Oral,Sodium valproate,100.000mg/1.000ml
+,,,,3928541000033113,36038411000001103,Levetiracetam 500mg/5ml solution for infusion vials,Levetiracetam 500mg/5ml solution for infusion vials,Solution for infusion,Intravenous,Levetiracetam,100.000mg/1.000ml
+,,,,3928641000033114,10446811000001102,Keppra 500mg/5ml concentrate for solution for infusion vials (UCB Pharma Ltd),Keppra 500mg/5ml concentrate for solution for infusion vials,Solution for infusion,Intravenous,Levetiracetam,100.000mg/1.000ml
+,,,,3979441000033115,8354911000001105,Carbamazepine 500mg/5ml oral suspension,Carbamazepine 500mg/5ml oral suspension,Oral suspension,Oral,Carbamazepine,100.000mg/1.000ml
+,,,,3993541000033113,14016811000001101,Pregabalin 75mg/5ml oral suspension,Pregabalin 75mg/5ml oral suspension,Oral suspension,Oral,Pregabalin,15.000mg/1.000ml
+,,,,4021241000033113,11089411000001104,Sodium valproate 300mg/3ml solution for injection ampoules,Sodium valproate 300mg/3ml solution for injection ampoules,Solution for injection,Intravenous,Sodium valproate,100.000mg/1.000ml
+,,,,4021341000033115,11072611000001100,Episenta 300mg/3ml solution for injection ampoules (Desitin Pharma Ltd),Episenta 300mg/3ml solution for injection ampoules,Solution for injection,Intravenous,Sodium valproate,100.000mg/1.000ml
+,,,,4150241000033114,11475111000001108,Sodium valproate 150mg modified-release capsules,Sodium valproate 150mg modified-release capsules,Modified-release capsule,Oral,Sodium valproate,150.000mg
+,,,,4150341000033116,11475211000001102,Sodium valproate 300mg modified-release capsules,Sodium valproate 300mg modified-release capsules,Modified-release capsule,Oral,Sodium valproate,300.000mg
+,,,,4150441000033110,11475611000001100,Episenta 150mg modified-release capsules (Desitin Pharma Ltd),Episenta 150mg modified-release capsules,Modified-release capsule,Oral,Sodium valproate,150.000mg
+,,,,4150641000033112,11475911000001106,Episenta 300mg modified-release capsules (Desitin Pharma Ltd),Episenta 300mg modified-release capsules,Modified-release capsule,Oral,Sodium valproate,300.000mg
+,,,,4150941000033117,11475311000001105,Sodium valproate 500mg modified-release granules sachets sugar free,Sodium valproate 500mg modified-release granules sachets sugar free,Modified-release granules,Oral,Sodium valproate,500.000mg
+,,,,4151041000033110,11475411000001103,Sodium valproate 1g modified-release granules sachets sugar free,Sodium valproate 1g modified-release granules sachets sugar free,Modified-release granules,Oral,Sodium valproate,1.000gram
+,,,,4151141000033114,11476211000001108,Episenta 500mg modified-release granules sachets (Desitin Pharma Ltd),Episenta 500mg modified-release granules sachets,Modified-release granules,Oral,Sodium valproate,500.000mg
+,,,,4151241000033119,11476511000001106,Episenta 1000mg modified-release granules sachets (Desitin Pharma Ltd),Episenta 1000mg modified-release granules sachets,Modified-release granules,Oral,Sodium valproate,1.000gram
+,,,,4268341000033113,12865211000001100,Rufinamide 100mg tablets,Rufinamide 100mg tablets,Tablet,Oral,Rufinamide,100.000mg
+,,,,4268441000033119,441572007,Rufinamide 200mg tablets,Rufinamide 200mg tablets,Tablet,Oral,Rufinamide,200.000mg
+,,,,4268541000033118,441822003,Rufinamide 400mg tablets,Rufinamide 400mg tablets,Tablet,Oral,Rufinamide,400.000mg
+,,,,4268641000033117,12862111000001104,Inovelon 100mg tablets (Eisai Ltd),Inovelon 100mg tablets,Tablet,Oral,Rufinamide,100.000mg
+,,,,4268741000033114,13123911000001104,Inovelon 200mg tablets (Eisai Ltd),Inovelon 200mg tablets,Tablet,Oral,Rufinamide,200.000mg
+,,,,4268841000033116,13124211000001106,Inovelon 400mg tablets (Eisai Ltd),Inovelon 400mg tablets,Tablet,Oral,Rufinamide,400.000mg
+,,,,4387641000033111,421070002,Pregabalin 225mg capsules,Pregabalin 225mg capsules,Capsule,Oral,Pregabalin,225.000mg
+,,,,4387741000033119,13076011000001103,Lyrica 225mg capsules (Upjohn UK Ltd),Lyrica 225mg capsules,Capsule,Oral,Pregabalin,225.000mg
+,,,,4434741000033113,13117911000001104,Sodium valproate 1g/10ml solution for injection ampoules,Sodium valproate 1g/10ml solution for injection ampoules,Solution for injection,Intravenous,Sodium valproate,100.000mg/1.000ml
+,,,,4549841000033112,13718611000001103,Sodium valproate 100mg modified-release granules sachets sugar free,Sodium valproate 100mg modified-release granules sachets sugar free,Modified-release granules,Oral,Sodium valproate,100.000mg
+,,,,4549941000033116,13718711000001107,Sodium valproate 250mg modified-release granules sachets sugar free,Sodium valproate 250mg modified-release granules sachets sugar free,Modified-release granules,Oral,Sodium valproate,250.000mg
+,,,,4550041000033113,13718811000001104,Sodium valproate 50mg modified-release granules sachets sugar free,Sodium valproate 50mg modified-release granules sachets sugar free,Modified-release granules,Oral,Sodium valproate,50.000mg
+,,,,4550141000033112,13718911000001109,Sodium valproate 750mg modified-release granules sachets sugar free,Sodium valproate 750mg modified-release granules sachets sugar free,Modified-release granules,Oral,Sodium valproate,750.000mg
+,,,,4550241000033117,13666611000001108,Epilim Chronosphere MR 50mg granules sachets (Sanofi),Epilim Chronosphere MR 50mg granules sachets,Modified-release granules,Oral,Sodium valproate,50.000mg
+,,,,4550341000033110,13665411000001101,Epilim Chronosphere MR 100mg granules sachets (Sanofi),Epilim Chronosphere MR 100mg granules sachets,Modified-release granules,Oral,Sodium valproate,100.000mg
+,,,,4550441000033116,13665711000001107,Epilim Chronosphere MR 250mg granules sachets (Sanofi),Epilim Chronosphere MR 250mg granules sachets,Modified-release granules,Oral,Sodium valproate,250.000mg
+,,,,4550541000033115,13665911000001109,Epilim Chronosphere MR 500mg granules sachets (Sanofi),Epilim Chronosphere MR 500mg granules sachets,Modified-release granules,Oral,Sodium valproate,500.000mg
+,,,,4550641000033119,13666311000001103,Epilim Chronosphere MR 750mg granules sachets (Sanofi),Epilim Chronosphere MR 750mg granules sachets,Modified-release granules,Oral,Sodium valproate,750.000mg
+,,,,4957341000033119,15125411000001102,Pregabalin 150mg/5ml oral suspension,Pregabalin 150mg/5ml oral suspension,Oral suspension,Oral,Pregabalin,30.000mg/1.000ml
+,,,,5055041000033113,15439411000001102,Epilim Chronosphere MR 1000mg granules sachets (Sanofi),Epilim Chronosphere MR 1000mg granules sachets,Modified-release granules,Oral,Sodium valproate,1.000gram
+,,,,5100341000033117,14010811000001103,Gabapentin 400mg/5ml oral solution,Gabapentin 400mg/5ml oral solution,Oral solution,Oral,Gabapentin,80.000mg/1.000ml
+,,,,511341000033115,117311000001105,Emeside 250mg capsules (Chemidex Pharma Ltd),Emeside 250mg capsules,Capsule,Oral,Ethosuximide,250.000mg
+,,,,513841000033113,364611000001102,Emeside 250mg/5ml syrup (Essential Pharma Ltd),Emeside 250mg/5ml syrup,Oral solution,Oral,Ethosuximide,50.000mg/1.000ml
+,,,,524741000033114,725911000001101,Epanutin 100mg capsules (Pfizer Ltd),Epanutin 100mg capsules,Capsule,Oral,Phenytoin sodium,100.000mg
+,,,,524841000033116,199911000001103,Epanutin 25mg capsules (Pfizer Ltd),Epanutin 25mg capsules,Capsule,Oral,Phenytoin sodium,25.000mg
+,,,,524941000033112,208611000001100,Epanutin 50mg capsules (Pfizer Ltd),Epanutin 50mg capsules,Capsule,Oral,Phenytoin sodium,50.000mg
+,,,,525041000033112,198711000001109,Epanutin 300mg capsules (Pfizer Ltd),Epanutin 300mg capsules,Capsule,Oral,Phenytoin sodium,300.000mg
+,,,,526941000033119,4358911000001102,Epanutin Ready-Mixed Parenteral 250mg/5ml solution for injection ampoules (Upjohn UK Ltd),Epanutin Ready-Mixed Parenteral 250mg/5ml solution for injection ampoules,Solution for injection,Intravenous/ Intramuscular,Phenytoin sodium,50.000mg/1.000ml
+,,,,529441000033118,251711000001106,Epanutin Infatabs 50mg chewable tablets (Upjohn UK Ltd),Epanutin Infatabs 50mg chewable tablets,Chewable tablet,Oral,Phenytoin,50.000mg
+,,,,529541000033117,4351111000001108,Epilim Intravenous 400mg powder and solvent for solution for injection vials (Sanofi),Epilim Intravenous 400mg powder and solvent for solution for injection vials,Powder and solvent for solution for injection,Intravenous,Sodium valproate,400.000mg
+,,,,529641000033116,100011000001108,Epilim 200mg/5ml liquid (Sanofi),Epilim 200mg/5ml liquid,Oral solution,Oral,Sodium valproate,40.000mg/1.000ml
+,,,,529841000033115,489711000001100,Epilim Chrono 200 tablets (Sanofi),Epilim Chrono 200 tablets,Modified-release tablet,Oral,Sodium valproate,200.000mg
+,,,,529941000033111,789911000001106,Epilim Chrono 300 tablets (Sanofi),Epilim Chrono 300 tablets,Modified-release tablet,Oral,Sodium valproate,300.000mg
+,,,,530041000033115,739111000001100,Epilim Chrono 500 tablets (Sanofi),Epilim Chrono 500 tablets,Modified-release tablet,Oral,Sodium valproate,500.000mg
+,,,,531941000033113,185711000001101,Epanutin 30mg/5ml oral suspension (Upjohn UK Ltd),Epanutin 30mg/5ml oral suspension,Oral suspension,Oral,Phenytoin,6.000mg/1.000ml
+,,,,532141000033115,892411000001106,Epilim 200mg/5ml syrup (Sanofi),Epilim 200mg/5ml syrup,Oral solution,Oral,Sodium valproate,40.000mg/1.000ml
+,,,,532541000033112,552511000001100,Epilim 100mg crushable tablets (Sanofi),Epilim 100mg crushable tablets,Tablet,Oral,Sodium valproate,100.000mg
+,,,,532641000033113,889311000001108,Epilim 200 gastro-resistant tablets (Sanofi),Epilim 200 gastro-resistant tablets,Gastro-resistant tablet,Oral,Sodium valproate,200.000mg
+,,,,532741000033116,448711000001102,Epilim 500 gastro-resistant tablets (Sanofi),Epilim 500 gastro-resistant tablets,Gastro-resistant tablet,Oral,Sodium valproate,500.000mg
+,,,,5377241000033111,13324511000001102,Topiramate 100mg/5ml oral suspension,Topiramate 100mg/5ml oral suspension,Oral suspension,Oral,Topiramate,20.000mg/1.000ml
+,,,,5452741000033110,8818311000001105,Primidone 62.5mg/5ml oral suspension,Primidone 62.5mg/5ml oral suspension,Oral suspension,Oral,Primidone,12.500mg/1.000ml
+,,,,547141000033116,322906007,Ethosuximide 250mg capsules,Ethosuximide 250mg capsules,Capsule,Oral,Ethosuximide,250.000mg
+,,,,549441000033115,322908008,Ethosuximide 250mg/5ml oral solution,Ethosuximide 250mg/5ml oral solution,Oral solution,Oral,Ethosuximide,50.000mg/1.000ml
+,,,,5575641000033118,24595511000001107,Zonisamide 25mg/5ml oral suspension,Zonisamide 25mg/5ml oral suspension,Oral suspension,Oral,Zonisamide,5.000mg/1.000ml
+,,,,5887341000033110,13893911000001100,Phenytoin 90mg/5ml oral solution,Phenytoin 90mg/5ml oral solution,Oral solution,Oral,Phenytoin,18.000mg/1.000ml
+,,,,5887441000033116,8817911000001105,Phenytoin 90mg/5ml oral suspension,Phenytoin 90mg/5ml oral suspension,Oral suspension,Oral,Phenytoin,18.000mg/1.000ml
+,,,,5890841000033118,8520411000001109,Gabapentin 250mg/5ml oral suspension,Gabapentin 250mg/5ml oral suspension,Oral suspension,Oral,Gabapentin,50.000mg/1.000ml
+,,,,5968141000033119,8520111000001104,Gabapentin 100mg/5ml oral solution,Gabapentin 100mg/5ml oral solution,Oral solution,Oral,Gabapentin,20.000mg/1.000ml
+,,,,5968241000033114,8520211000001105,Gabapentin 100mg/5ml oral suspension,Gabapentin 100mg/5ml oral suspension,Oral suspension,Oral,Gabapentin,20.000mg/1.000ml
+,,,,5968341000033116,12089411000001100,Gabapentin 200mg/5ml oral suspension,Gabapentin 200mg/5ml oral suspension,Oral suspension,Oral,Gabapentin,40.000mg/1.000ml
+,,,,5968441000033110,12089311000001107,Gabapentin 200mg/5ml oral solution,Gabapentin 200mg/5ml oral solution,Oral solution,Oral,Gabapentin,40.000mg/1.000ml
+,,,,5968541000033111,8520511000001108,Gabapentin 300mg/5ml oral solution,Gabapentin 300mg/5ml oral solution,Oral solution,Oral,Gabapentin,60.000mg/1.000ml
+,,,,5968641000033112,8523111000001106,Gabapentin 300mg/5ml oral suspension,Gabapentin 300mg/5ml oral suspension,Oral suspension,Oral,Gabapentin,60.000mg/1.000ml
+,,,,5974041000033117,12193511000001108,Phenobarbital 90mg/5ml oral solution,Phenobarbital 90mg/5ml oral solution,Oral solution,Oral,Phenobarbital,18.000mg/1.000ml
+,,,,5974141000033118,12193611000001107,Phenobarbital 90mg/5ml oral suspension,Phenobarbital 90mg/5ml oral suspension,Oral suspension,Oral,Phenobarbital,18.000mg/1.000ml
+,,,,5978341000033111,12186611000001100,Phenobarbital 10mg/5ml oral solution,Phenobarbital 10mg/5ml oral solution,Oral solution,Oral,Phenobarbital,2.000mg/1.000ml
+,,,,5978441000033117,12186711000001109,Phenobarbital 10mg/5ml oral suspension,Phenobarbital 10mg/5ml oral suspension,Oral suspension,Oral,Phenobarbital,2.000mg/1.000ml
+,,,,5993441000033118,14014011000001102,Gabapentin 400mg/5ml oral suspension,Gabapentin 400mg/5ml oral suspension,Oral suspension,Oral,Gabapentin,80.000mg/1.000ml
+,,,,5997641000033114,8800911000001106,Phenobarbital 50mg/5ml oral solution,Phenobarbital 50mg/5ml oral solution,Oral solution,Oral,Phenobarbital,10.000mg/1.000ml
+,,,,5997741000033117,8800811000001101,Phenobarbital 50mg/5ml oral suspension,Phenobarbital 50mg/5ml oral suspension,Oral suspension,Oral,Phenobarbital,10.000mg/1.000ml
+,,,,5997941000033119,14016711000001109,Pregabalin 75mg/5ml oral solution,Pregabalin 75mg/5ml oral solution,Oral solution,Oral,Pregabalin,15.000mg/1.000ml
+,,,,5998441000033113,18084211000001106,Zonisamide 50mg/5ml oral suspension,Zonisamide 50mg/5ml oral suspension,Oral suspension,Oral,Zonisamide,10.000mg/1.000ml
+,,,,5998641000033110,18084111000001100,Zonisamide 50mg/5ml oral solution,Zonisamide 50mg/5ml oral solution,Oral solution,Oral,Zonisamide,10.000mg/1.000ml
+,,,,6067741000033110,375136008,Primidone 50mg tablets,Primidone 50mg tablets,Tablet,Oral,Primidone,50.000mg
+,,,,6067841000033117,18455311000001101,Mysoline 50mg tablets (SERB),Mysoline 50mg tablets,Tablet,Oral,Primidone,50.000mg
+,,,,620641000033115,323013002,Gabapentin 100mg capsules,Gabapentin 100mg capsules,Capsule,Oral,Gabapentin,100.000mg
+,,,,620741000033112,323014008,Gabapentin 300mg capsules,Gabapentin 300mg capsules,Capsule,Oral,Gabapentin,300.000mg
+,,,,620841000033119,323015009,Gabapentin 400mg capsules,Gabapentin 400mg capsules,Capsule,Oral,Gabapentin,400.000mg
+,,,,6512441000033115,19868011000001105,Matever 750mg tablets (Aspire Pharma Ltd),Matever 750mg tablets,Tablet,Oral,Levetiracetam,750.000mg
+,,,,6512541000033119,19868411000001101,Matever 500mg tablets (Aspire Pharma Ltd),Matever 500mg tablets,Tablet,Oral,Levetiracetam,500.000mg
+,,,,6512641000033118,19868711000001107,Matever 250mg tablets (Aspire Pharma Ltd),Matever 250mg tablets,Tablet,Oral,Levetiracetam,250.000mg
+,,,,7687641000033113,20353211000001104,Rufinamide 40mg/ml oral suspension sugar free,Rufinamide 40mg/ml oral suspension sugar free,Oral suspension,Oral,Rufinamide,40.000mg/1.000ml
+,,,,7687741000033116,20343811000001100,Inovelon 40mg/ml oral suspension (Eisai Ltd),Inovelon 40mg/ml oral suspension,Oral suspension,Oral,Rufinamide,40.000mg/1.000ml
+,,,,7859541000033118,12213211000001108,Phenobarbital 25mg/5ml oral suspension,Phenobarbital 25mg/5ml oral suspension,Oral suspension,Oral,Phenobarbital,5.000mg/1.000ml
+,,,,7871541000033119,20556411000001107,Pregabalin 20mg/ml oral solution sugar free,Pregabalin 20mg/ml oral solution sugar free,Oral solution,Oral,Pregabalin,20.000mg/1.000ml
+,,,,7871641000033118,20545811000001103,Lyrica 20mg/ml oral solution (Upjohn UK Ltd),Lyrica 20mg/ml oral solution,Oral solution,Oral,Pregabalin,20.000mg/1.000ml
+,,,,809341000033116,3147211000001102,Lamictal 100mg dispersible tablets (GlaxoSmithKline UK Ltd),Lamictal 100mg dispersible tablets,Dispersible tablet,Oral,Lamotrigine,100.000mg
+,,,,809441000033110,3146411000001100,Lamictal 25mg dispersible tablets (GlaxoSmithKline UK Ltd),Lamictal 25mg dispersible tablets,Dispersible tablet,Oral,Lamotrigine,25.000mg
+,,,,809541000033111,3145811000001106,Lamictal 5mg dispersible tablets (GlaxoSmithKline UK Ltd),Lamictal 5mg dispersible tablets,Dispersible tablet,Oral,Lamotrigine,5.000mg
+,,,,809641000033112,322992003,Lamotrigine 100mg dispersible tablets sugar free,Lamotrigine 100mg dispersible tablets sugar free,Dispersible tablet,Oral,Lamotrigine,100.000mg
+,,,,809741000033115,322991005,Lamotrigine 25mg dispersible tablets sugar free,Lamotrigine 25mg dispersible tablets sugar free,Dispersible tablet,Oral,Lamotrigine,25.000mg
+,,,,809841000033113,36566611000001108,Lamotrigine 5mg dispersible tablets sugar free,Lamotrigine 5mg dispersible tablets sugar free,Dispersible tablet,Oral,Lamotrigine,5.000mg
+,,,,8124641000033115,21200511000001100,Phenytoin sodium 25mg capsules (Flynn Pharma Ltd),Phenytoin sodium 25mg capsules,Capsule,Oral,Phenytoin sodium,25.000mg
+,,,,8124741000033112,21200711000001105,Phenytoin sodium 50mg capsules (Flynn Pharma Ltd),Phenytoin sodium 50mg capsules,Capsule,Oral,Phenytoin sodium,50.000mg
+,,,,8124841000033119,21200911000001107,Phenytoin sodium 100mg capsules (Flynn Pharma Ltd),Phenytoin sodium 100mg capsules,Capsule,Oral,Phenytoin sodium,100.000mg
+,,,,8124941000033110,21201111000001103,Phenytoin sodium 300mg capsules (Flynn Pharma Ltd),Phenytoin sodium 300mg capsules,Capsule,Oral,Phenytoin sodium,300.000mg
+,,,,8125341000033112,12089611000001102,Gabapentin 500mg/5ml oral suspension,Gabapentin 500mg/5ml oral suspension,Oral suspension,Oral,Gabapentin,100.000mg/1.000ml
+,,,,816841000033115,2928811000001105,Lamictal 100mg tablets (GlaxoSmithKline UK Ltd),Lamictal 100mg tablets,Tablet,Oral,Lamotrigine,100.000mg
+,,,,816941000033111,2927711000001103,Lamictal 50mg tablets (GlaxoSmithKline UK Ltd),Lamictal 50mg tablets,Tablet,Oral,Lamotrigine,50.000mg
+,,,,817041000033112,322982006,Lamotrigine 100mg tablets,Lamotrigine 100mg tablets,Tablet,Oral,Lamotrigine,100.000mg
+,,,,817141000033111,322981004,Lamotrigine 50mg tablets,Lamotrigine 50mg tablets,Tablet,Oral,Lamotrigine,50.000mg
+,,,,817341000033114,2925811000001101,Lamictal 25mg tablets (GlaxoSmithKline UK Ltd),Lamictal 25mg tablets,Tablet,Oral,Lamotrigine,25.000mg
+,,,,817441000033115,322985008,Lamotrigine 25mg tablets,Lamotrigine 25mg tablets,Tablet,Oral,Lamotrigine,25.000mg
+,,,,817741000033110,3145211000001105,Lamictal 200mg tablets (GlaxoSmithKline UK Ltd),Lamictal 200mg tablets,Tablet,Oral,Lamotrigine,200.000mg
+,,,,817841000033117,322994002,Lamotrigine 200mg tablets,Lamotrigine 200mg tablets,Tablet,Oral,Lamotrigine,200.000mg
+,,,,8237041000033117,21660111000001105,Gabapentin 50mg/ml oral solution sugar free,Gabapentin 50mg/ml oral solution sugar free,Oral solution,Oral,Gabapentin,50.000mg/1.000ml
+,,,,8246741000033115,21733211000001107,Levetiracetam 1g granules sachets sugar free,Levetiracetam 1g granules sachets sugar free,Granules,Oral,Levetiracetam,1.000gram
+,,,,8246841000033113,21733311000001104,Levetiracetam 250mg granules sachets sugar free,Levetiracetam 250mg granules sachets sugar free,Granules,Oral,Levetiracetam,250.000mg
+,,,,8246941000033117,21733411000001106,Levetiracetam 500mg granules sachets sugar free,Levetiracetam 500mg granules sachets sugar free,Granules,Oral,Levetiracetam,500.000mg
+,,,,8247041000033116,21731611000001105,Desitrend 1000mg granules sachets (Desitin Pharma Ltd),Desitrend 1000mg granules sachets,Granules,Oral,Levetiracetam,1.000gram
+,,,,8247141000033117,21730711000001109,Desitrend 250mg granules sachets (Desitin Pharma Ltd),Desitrend 250mg granules sachets,Granules,Oral,Levetiracetam,250.000mg
+,,,,8247241000033112,21731111000001102,Desitrend 500mg granules sachets (Desitin Pharma Ltd),Desitrend 500mg granules sachets,Granules,Oral,Levetiracetam,500.000mg
+,,,,8535841000033110,22663911000001101,Sodium valproate 400mg/4ml solution for injection ampoules,Sodium valproate 400mg/4ml solution for injection ampoules,Solution for injection,Intravenous,Sodium valproate,100.000mg/1.000ml
+,,,,8536541000033119,8582611000001104,Lamotrigine 50mg/5ml oral suspension,Lamotrigine 50mg/5ml oral suspension,Oral suspension,Oral,Lamotrigine,10.000mg/1.000ml
+,,,,8885341000033112,23167411000001105,Desitrend 100mg/ml oral solution (Desitin Pharma Ltd),Desitrend 100mg/ml oral solution,Oral solution,Oral,Levetiracetam,100.000mg/1.000ml
+,,,,9119841000033112,24108311000001104,Carbagen 100mg tablets (Mylan),Carbagen 100mg tablets,Tablet,Oral,Carbamazepine,100.000mg
+,,,,9119941000033116,24108811000001108,Carbagen 200mg tablets (Mylan),Carbagen 200mg tablets,Tablet,Oral,Carbamazepine,200.000mg
+,,,,9120041000033118,24109211000001102,Carbagen 400mg tablets (Mylan),Carbagen 400mg tablets,Tablet,Oral,Carbamazepine,400.000mg
+,,,,946441000033116,4548311000001102,Mysoline 250mg/5ml oral suspension (Zeneca Pharma),Mysoline 250mg/5ml oral suspension,Oral suspension,Oral,Primidone,50.000mg/1.000ml
+,,,,948141000033113,87711000001100,Mysoline 250mg tablets (SERB),Mysoline 250mg tablets,Tablet,Oral,Primidone,250.000mg
+,,,,958041000033112,459211000001102,Neurontin 100mg capsules (Upjohn UK Ltd),Neurontin 100mg capsules,Capsule,Oral,Gabapentin,100.000mg
+,,,,958141000033111,401511000001108,Neurontin 300mg capsules (Upjohn UK Ltd),Neurontin 300mg capsules,Capsule,Oral,Gabapentin,300.000mg
+,,,,958241000033116,302911000001103,Neurontin 400mg capsules (Upjohn UK Ltd),Neurontin 400mg capsules,Capsule,Oral,Gabapentin,400.000mg
+,,,,9776741000033114,13355211000001100,Topiramate 100mg/5ml oral solution,Topiramate 100mg/5ml oral solution,Oral solution,Oral,Topiramate,20.000mg/1.000ml

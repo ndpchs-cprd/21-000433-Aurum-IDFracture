@@ -1,0 +1,82 @@
+MedCodeId,Term,Observations,SNOMED_CT_Concept_ID,prodcodeid,dmdid,termfromemis,productname,formulation,routeofadministration,drugsubstancename,substancestrength
+,,,,11810641000033118,33665211000001103,Ventra 40mg gastro-resistant capsules (Ethypharm UK Ltd),Ventra 40mg gastro-resistant capsules,Gastro-resistant capsule,Oral/ Gastroenteral,Esomeprazole magnesium dihydrate,40.000mg
+,,,,11810741000033110,33664711000001106,Ventra 20mg gastro-resistant capsules (Ethypharm UK Ltd),Ventra 20mg gastro-resistant capsules,Gastro-resistant capsule,Oral/ Gastroenteral,Esomeprazole magnesium dihydrate,20.000mg
+,,,,1003941000033118,317291008,Omeprazole 20mg gastro-resistant capsules,Omeprazole 20mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Omeprazole,20.000mg
+,,,,1004041000033116,317295004,Omeprazole 40mg gastro-resistant capsules,Omeprazole 40mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Omeprazole,40.000mg
+,,,,1004141000033117,317297007,Omeprazole 10mg gastro-resistant capsules,Omeprazole 10mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Omeprazole,10.000mg
+,,,,1041041000033114,317318004,Pantoprazole 40mg gastro-resistant tablets,Pantoprazole 40mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Pantoprazole sodium sesquihydrate,40.000mg
+,,,,1136341000033111,922011000001101,Protium 40mg gastro-resistant tablets (Nycomed UK Ltd),Protium 40mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Pantoprazole sodium sesquihydrate,40.000mg
+,,,,13314941000033114,24351311000001108,Omeprazole 10mg/5ml oral solution,Omeprazole 10mg/5ml oral solution,Oral solution,Oral,Omeprazole,2.000mg/1.000ml
+,,,,13315041000033114,24351411000001101,Omeprazole 20mg/5ml oral solution,Omeprazole 20mg/5ml oral solution,Oral solution,Oral,Omeprazole,4.000mg/1.000ml
+,,,,13419741000033115,38072111000001103,Omeprazole 10mg/5ml oral suspension sugar free,Omeprazole 10mg/5ml oral suspension sugar free,Oral suspension,Gastroenteral/ Oral,Omeprazole,2.000mg/1.000ml
+,,,,13419841000033113,38072211000001109,Omeprazole 20mg/5ml oral suspension sugar free,Omeprazole 20mg/5ml oral suspension sugar free,Oral suspension,Gastroenteral/ Oral,Omeprazole,4.000mg/1.000ml
+,,,,1558841000033113,217611000001102,Zoton 30mg gastro-resistant capsules (Wyeth Pharmaceuticals),Zoton 30mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Lansoprazole,30.000mg
+,,,,1558941000033117,29411000001106,Zoton 15mg gastro-resistant capsules (Wyeth Pharmaceuticals),Zoton 15mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Lansoprazole,15.000mg
+,,,,1625941000033118,36037911000001105,Lansoprazole 30mg gastro-resistant granules sachets,Lansoprazole 30mg gastro-resistant granules sachets,Gastro-resistant granules,Oral,Lansoprazole,30.000mg
+,,,,1664241000033116,228611000001109,Pariet 10mg gastro-resistant tablets (Eisai Ltd),Pariet 10mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Rabeprazole sodium,10.000mg
+,,,,1664341000033114,43811000001108,Pariet 20mg gastro-resistant tablets (Eisai Ltd),Pariet 20mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Rabeprazole sodium,20.000mg
+,,,,1671441000033113,317324005,Rabeprazole 10mg gastro-resistant tablets,Rabeprazole 10mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Rabeprazole sodium,10.000mg
+,,,,1671541000033114,317325006,Rabeprazole 20mg gastro-resistant tablets,Rabeprazole 20mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Rabeprazole sodium,20.000mg
+,,,,1713841000033114,3261211000001101,Zoton 30mg gastro-resistant granules sachets (Wyeth Pharmaceuticals),Zoton 30mg gastro-resistant granules sachets,Gastro-resistant granules,Oral,Lansoprazole,30.000mg
+,,,,1748041000033117,317320001,Pantoprazole 40mg powder for solution for injection vials,Pantoprazole 40mg powder for solution for injection vials,Powder for solution for injection,Intravenous,Pantoprazole sodium sesquihydrate,40.000mg
+,,,,1750141000033118,540211000001102,Protium I.V. 40mg powder for solution for injection vials (Takeda UK Ltd),Protium I.V. 40mg powder for solution for injection vials,Powder for solution for injection,Intravenous,Pantoprazole sodium sesquihydrate,40.000mg
+,,,,1780941000033113,317322009,Pantoprazole 20mg gastro-resistant tablets,Pantoprazole 20mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Pantoprazole sodium sesquihydrate,20.000mg
+,,,,1781041000033115,160711000001109,Protium 20mg gastro-resistant tablets (Nycomed UK Ltd),Protium 20mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Pantoprazole sodium sesquihydrate,20.000mg
+,,,,1843041000033114,36022311000001109,Omeprazole 40mg powder for solution for infusion vials,Omeprazole 40mg powder for solution for infusion vials, Powder for solution for infusion,Intravenous,Omeprazole sodium,40.000mg
+,,,,1843141000033113,4370611000001108,Losec Infusion 40mg powder for solution for infusion vials (AstraZeneca UK Ltd),Losec Infusion 40mg powder for solution for infusion vials, Powder for solution for infusion,Intravenous,Omeprazole sodium,40.000mg
+,,,,1861341000033118,407846000,Omeprazole 10mg gastro-resistant tablets,Omeprazole 10mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Omeprazole,10.000mg
+,,,,1861441000033112,407847009,Omeprazole 20mg gastro-resistant tablets,Omeprazole 20mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Omeprazole,20.000mg
+,,,,1861541000033113,407848004,Omeprazole 40mg gastro-resistant tablets,Omeprazole 40mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Omeprazole,40.000mg
+,,,,1861641000033114,749811000001106,Losec MUPS 10mg gastro-resistant tablets (AstraZeneca UK Ltd),Losec MUPS 10mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Omeprazole magnesium,10.000mg
+,,,,1861741000033117,427311000001104,Losec MUPS 20mg gastro-resistant tablets (AstraZeneca UK Ltd),Losec MUPS 20mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Omeprazole magnesium,20.000mg
+,,,,1861841000033110,691311000001102,Losec MUPS 40mg gastro-resistant tablets (AstraZeneca UK Ltd),Losec MUPS 40mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Omeprazole magnesium,40.000mg
+,,,,2158841000033115,9832811000001108,Losec I.V. 40mg powder and solvent for solution for injection vials (AstraZeneca UK Ltd),Losec I.V. 40mg powder and solvent for solution for injection vials,Powder and solvent for solution for injection,Intravenous,Omeprazole sodium,40.000mg
+,,,,2158941000033111,36022211000001101,Omeprazole 40mg powder and solvent for solution for injection vials,Omeprazole 40mg powder and solvent for solution for injection vials,Powder and solvent for solution for injection,Intravenous,Omeprazole sodium,40.000mg
+,,,,2177441000033117,317335000,Esomeprazole 20mg gastro-resistant tablets,Esomeprazole 20mg gastro-resistant tablets,Gastro-resistant tablet,Gastroenteral/ Oral,Esomeprazole,20.000mg
+,,,,2177541000033116,317334001,Esomeprazole 40mg gastro-resistant tablets,Esomeprazole 40mg gastro-resistant tablets,Gastro-resistant tablet,Gastroenteral/ Oral,Esomeprazole,40.000mg
+,,,,2177641000033115,154111000001106,Nexium 20mg gastro-resistant tablets (Grunenthal Ltd),Nexium 20mg gastro-resistant tablets,Gastro-resistant tablet,Oral/ Gastroenteral,Esomeprazole,20.000mg
+,,,,2177741000033112,240211000001107,Nexium 40mg gastro-resistant tablets (Grunenthal Ltd),Nexium 40mg gastro-resistant tablets,Gastro-resistant tablet,Oral/ Gastroenteral,Esomeprazole,40.000mg
+,,,,2747441000033114,39021411000001102,Omeprazole 10mg dispersible gastro-resistant tablets,Omeprazole 10mg dispersible gastro-resistant tablets,Gastro-resistant tablet,Oral,Omeprazole magnesium,10.000mg
+,,,,2747541000033110,39021511000001103,Omeprazole 20mg dispersible gastro-resistant tablets,Omeprazole 20mg dispersible gastro-resistant tablets,Gastro-resistant tablet,Oral,Omeprazole magnesium,20.000mg
+,,,,2747641000033111,39021611000001104,Omeprazole 40mg dispersible gastro-resistant tablets,Omeprazole 40mg dispersible gastro-resistant tablets,Gastro-resistant tablet,Oral,Omeprazole magnesium,40.000mg
+,,,,2848841000033111,3632811000001101,Omeran 10mg gastro-resistant tablets (Ranbaxy (UK) Ltd),Omeran 10mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Omeprazole,10.000mg
+,,,,2848941000033115,3633211000001108,Omeran 20mg gastro-resistant tablets (Ranbaxy (UK) Ltd),Omeran 20mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Omeprazole,20.000mg
+,,,,2849041000033112,3633611000001105,Omeran 40mg gastro-resistant tablets (Ranbaxy (UK) Ltd),Omeran 40mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Omeprazole,40.000mg
+,,,,2880641000033117,4053411000001103,Lansoprazole 15mg orodispersible tablets,Lansoprazole 15mg orodispersible tablets,Orodispersible tablet,Oral,Lansoprazole,15.000mg
+,,,,2880741000033114,4053511000001104,Lansoprazole 30mg orodispersible tablets,Lansoprazole 30mg orodispersible tablets,Orodispersible tablet,Oral,Lansoprazole,30.000mg
+,,,,2880841000033116,4040911000001100,Zoton FasTab 15mg (Pfizer Ltd),Zoton FasTab 15mg,Orodispersible tablet,Oral,Lansoprazole,15.000mg
+,,,,2880941000033112,4041711000001105,Zoton FasTab 30mg (Pfizer Ltd),Zoton FasTab 30mg,Orodispersible tablet,Oral,Lansoprazole,30.000mg
+,,,,3051141000033116,7322511000001101,Esomeprazole 40mg powder for solution for injection vials,Esomeprazole 40mg powder for solution for injection vials,Powder for solution for injection,Intravenous,Esomeprazole sodium,40.000mg
+,,,,3059541000033112,7316211000001108,Zanprol 10mg gastro-resistant tablets (Omega Pharma Ltd),Zanprol 10mg gastro-resistant tablets,Gastro-resistant tablet,Oral,Omeprazole,10.000mg
+,,,,3892341000033119,8670711000001107,Omeprazole 20mg/5ml oral suspension,Omeprazole 20mg/5ml oral suspension,Oral suspension,Oral,Omeprazole,4.000mg/1.000ml
+,,,,3963441000033110,10820511000001105,Mepradec 10mg gastro-resistant capsules (Dexcel-Pharma Ltd),Mepradec 10mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Omeprazole,10.000mg
+,,,,3963541000033111,10820111000001101,Mepradec 20mg gastro-resistant capsules (Dexcel-Pharma Ltd),Mepradec 20mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Omeprazole,20.000mg
+,,,,3964041000033115,8670511000001102,Omeprazole 10mg/5ml oral suspension,Omeprazole 10mg/5ml oral suspension,Oral suspension,Oral,Omeprazole,2.000mg/1.000ml
+,,,,5324041000033112,16140611000001108,Axorid 200mg/20mg modified-release capsules (Meda Pharmaceuticals Ltd),Axorid 200mg/20mg modified-release capsules,Modified-release capsule,Oral,Ketoprofen/ Omeprazole,200.000mg + 20.000mg
+,,,,5324141000033111,16148311000001101,Axorid 100mg/20mg modified-release capsules (Meda Pharmaceuticals Ltd),Axorid 100mg/20mg modified-release capsules,Modified-release capsule,Oral,Ketoprofen/ Omeprazole,100.000mg + 20.000mg
+,,,,5324241000033116,16174411000001100,Ketoprofen 200mg / Omeprazole 20mg modified-release capsules,Ketoprofen 200mg / Omeprazole 20mg modified-release capsules,Modified-release capsule,Oral,Ketoprofen/ Omeprazole,200.000mg + 20.000mg
+,,,,5324341000033114,16174311000001107,Ketoprofen 100mg / Omeprazole 20mg modified-release capsules,Ketoprofen 100mg / Omeprazole 20mg modified-release capsules,Modified-release capsule,Oral,Ketoprofen/ Omeprazole,100.000mg + 20.000mg
+,,,,5324441000033115,16116611000001103,Nexium 10mg gastro-resistant granules sachets (Grunenthal Ltd),Nexium 10mg gastro-resistant granules sachets,Gastro-resistant granules,Oral/ Gastroenteral,Esomeprazole magnesium trihydrate,10.000mg
+,,,,5324541000033119,16132311000001103,Esomeprazole 10mg gastro-resistant granules sachets,Esomeprazole 10mg gastro-resistant granules sachets,Gastro-resistant granules,Gastroenteral/ Oral,Esomeprazole magnesium trihydrate,10.000mg
+,,,,5641341000033117,13821911000001109,Lansoprazole 5mg/5ml oral suspension,Lansoprazole 5mg/5ml oral suspension,Oral suspension,Oral,Lansoprazole,1.000mg/1.000ml
+,,,,5881841000033112,17631311000001107,Esomeprazole 20mg gastro-resistant capsules,Esomeprazole 20mg gastro-resistant capsules,Gastro-resistant capsule,Gastroenteral/ Oral,Esomeprazole magnesium dihydrate,20.000mg
+,,,,5881941000033116,17631411000001100,Esomeprazole 40mg gastro-resistant capsules,Esomeprazole 40mg gastro-resistant capsules,Gastro-resistant capsule,Gastroenteral/ Oral,Esomeprazole magnesium dihydrate,40.000mg
+,,,,5882041000033110,17603611000001106,Emozul 20mg gastro-resistant capsules (Consilient Health Ltd),Emozul 20mg gastro-resistant capsules,Gastro-resistant capsule,Oral/ Gastroenteral,Esomeprazole magnesium dihydrate,20.000mg
+,,,,5882141000033114,17603311000001101,Emozul 40mg gastro-resistant capsules (Consilient Health Ltd),Emozul 40mg gastro-resistant capsules,Gastro-resistant capsule,Oral/ Gastroenteral,Esomeprazole magnesium dihydrate,40.000mg
+,,,,5887541000033115,8670811000001104,Omeprazole 5mg/5ml oral suspension,Omeprazole 5mg/5ml oral suspension,Oral suspension,Oral,Omeprazole,1.000mg/1.000ml
+,,,,5970941000033112,15536711000001106,Lansoprazole 15mg/5ml oral solution,Lansoprazole 15mg/5ml oral solution,Oral solution,Oral,Lansoprazole,3.000mg/1.000ml
+,,,,5971041000033119,15632711000001100,Lansoprazole 15mg/5ml oral suspension,Lansoprazole 15mg/5ml oral suspension,Oral suspension,Oral,Lansoprazole,3.000mg/1.000ml
+,,,,5971141000033115,14014211000001107,Lansoprazole 30mg/5ml oral solution,Lansoprazole 30mg/5ml oral solution,Oral solution,Oral,Lansoprazole,6.000mg/1.000ml
+,,,,5971241000033110,14014311000001104,Lansoprazole 30mg/5ml oral suspension,Lansoprazole 30mg/5ml oral suspension,Oral suspension,Oral,Lansoprazole,6.000mg/1.000ml
+,,,,5973841000033110,13001811000001105,Omeprazole 40mg/5ml oral solution,Omeprazole 40mg/5ml oral solution,Oral solution,Oral,Omeprazole,8.000mg/1.000ml
+,,,,5973941000033119,13001911000001100,Omeprazole 40mg/5ml oral suspension,Omeprazole 40mg/5ml oral suspension,Oral suspension,Oral,Omeprazole,8.000mg/1.000ml
+,,,,6037241000033112,18245811000001107,Naproxen 500mg / Esomeprazole 20mg modified-release tablets,Naproxen 500mg / Esomeprazole 20mg modified-release tablets,Modified-release tablet,Oral,Esomeprazole magnesium trihydrate/ Naproxen,20.000mg + 500.000mg
+,,,,6037341000033119,18233711000001101,Vimovo 500mg/20mg modified-release tablets (Grunenthal Ltd),Vimovo 500mg/20mg modified-release tablets,Modified-release tablet,Oral,Esomeprazole magnesium trihydrate/ Naproxen,20.000mg + 500.000mg
+,,,,6114241000033118,18503211000001105,Mezzopram 10mg dispersible gastro-resistant tablets (Sandoz Ltd),Mezzopram 10mg dispersible gastro-resistant tablets,Gastro-resistant tablet,Oral,Omeprazole magnesium,10.000mg
+,,,,6114341000033111,18503311000001102,Mezzopram 20mg dispersible gastro-resistant tablets (Sandoz Ltd),Mezzopram 20mg dispersible gastro-resistant tablets,Gastro-resistant tablet,Oral,Omeprazole magnesium,20.000mg
+,,,,6114441000033117,18503411000001109,Mezzopram 40mg dispersible gastro-resistant tablets (Sandoz Ltd),Mezzopram 40mg dispersible gastro-resistant tablets,Gastro-resistant tablet,Oral,Omeprazole magnesium,40.000mg
+,,,,808941000033110,317309001,Lansoprazole 30mg gastro-resistant capsules,Lansoprazole 30mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Lansoprazole,30.000mg
+,,,,809041000033118,317310006,Lansoprazole 15mg gastro-resistant capsules,Lansoprazole 15mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Lansoprazole,15.000mg
+,,,,841141000033114,935511000001100,Losec 40mg gastro-resistant capsules (AstraZeneca UK Ltd),Losec 40mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Omeprazole,40.000mg
+,,,,841341000033112,64411000001103,Losec 10mg gastro-resistant capsules (AstraZeneca UK Ltd),Losec 10mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Omeprazole,10.000mg
+,,,,841841000033115,923011000001105,Losec 20mg gastro-resistant capsules (AstraZeneca UK Ltd),Losec 20mg gastro-resistant capsules,Gastro-resistant capsule,Oral,Omeprazole,20.000mg
